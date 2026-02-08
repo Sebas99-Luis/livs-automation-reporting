@@ -1,6 +1,6 @@
 import os
 
-INCOMING_DIR = "data/incoming"
+INCOMING_DIR = r"C:\Users\info\Documents\NORRDATA\Proyectos\livs-automation-reporting\data\incoming"
 
 def get_incoming_files():
     files = []
