@@ -1,0 +1,2065 @@
+sale_id,sale_date,product_name,category,quantity,unit_price,total_amount,payment_method,status
+S-20260113-01668,2026-01-13,Ris 1kg,Pantry,2,31.39,62.78,card,completed
+S-20260113-00481,13/01/2026,Mineralvatten 0.5L,Beverages,3,14.9,44.7,card,completed
+S-20260113-00906,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01152,2026-01-13,Läsk 1.5L,Beverages,5,21.16,105.8,card,completed
+S-20260113-00030,2026-01-13,Tonfisk burk,Pantry,1,21.16,21.16,cash,completed
+S-20260113-00545,2026-01-13,Bröd Limpa,Bakery,1,28.4,28.4,swish,completed
+S-20260113-01243,13/01/2026,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00846,2026-01-13,Toalettpapper 8-pack,Household,2,53.91,107.82,card,completed
+S-20260113-01361,2026-01-13,Glass,Frozen,1,33.91,33.91,swish,completed
+S-20260113-01194,2026-01-13,Diskmedel,Household,2,29.9,59.8,card,completed
+S-20260113-02034,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01005,13/01/2026,Bananer,Produce,1,29.9,29.9,card,cancelled
+S-20260113-01345,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-00234,2026-01-13,Chokladkaka,Snacks,3,21.16,63.48,cash,completed
+S-20260113-01246,2026-01-13,Gurka,Produce,2,19.9,39.8,cash,completed
+S-20260113-00713,13/01/2026,Glass,Frozen,2,39.9,79.8,card,Complete
+S-20260113-00071,2026-01-13,Tandkräm,Personal Care,1,28.4,28.4,card,done
+S-20260113-01129,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-00129,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-01201,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-00057,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,cash,completed
+S-20260113-00355,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01904,2026-01-13,Tonfisk burk,Pantry,1,21.16,21.16,swish,completed
+S-20260113-01011,2026-01-13,Krossade tomater,Pantry,1,13.41,13.41,card,Complete
+S-20260113-01166,13/01/2026,Godis påse,Snacks,2,19.9,39.8,card,completed
+S-20260113-00839,2026-01-13,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-00515,2026-01-13,Ägg 12-pack,Dairy,3,39.9,119.7,card,completed
+S-20260113-01729,2026-01-13,Frysta ärtor,Frozen,3,24.9,74.7,card,completed
+S-20260113-01091,2026-01-13,Schampo,Personal Care,2,47.4,94.8,card,completed
+S-20260113-01450,2026-01-13,Glass,Frozen,1,39.9,39.9,cash,completed
+S-20260113-01048,2026-01-13,Tandkräm,Personal Care,1,26.91,26.91,card,completed
+S-20260113-00536,2026-01-13,Chips 275g,Snacks,1,26.91,26.91,card,completed
+S-20260113-00612,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,swish,completed
+S-20260113-00888,2026-01-13,Ägg 12-pack,Dairy,3,39.9,119.7,card,Complete
+S-20260113-01030,2026-01-13,Glass,Frozen,1,41.9,41.9,card,completed
+S-20260113-00866,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,cash,completed
+S-20260113-00417,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-01784,2026-01-13,Bananer,Produce,1,25.41,25.41,swish,completed
+S-20260113-02015,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01782,2026-01-13,Bananer,Produce,1,29.9,29.9,swish,completed
+S-20260113-01929,13/01/2026,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-01675,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01055,13/01/2026,Tomater,Produce,1,39.9,39.9,swish,cancelled
+S-20260113-00221,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00212,2026-01-13,Ris 1kg,Pantry,1,28.4,28.4,swish,completed
+S-20260113-01871,2026-01-13,Cigaretter,Tobacco,2,79.0,158.0,card,completed
+S-20260113-00112,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-01126,2026-01-13,Ris 1kg,Pantry,3,29.9,89.7,card,Complete
+S-20260113-01504,13/01/2026,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-00531,2026-01-13,Gurka,produce,2,19.9,39.8,card,completed
+S-20260113-01962,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-02028,2026-01-13,Diskmedel,Household,1,29.9,29.9,cash,completed
+S-20260113-01340,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,cash,completed
+S-20260113-00731,2026-01-13,Mineralvatten 0.5L,Beverages,3,14.9,44.7,card,completed
+S-20260113-00830,2026-01-13,Mineralvatten 0.5L,Beverages,3,14.9,44.7,card,completed
+S-20260113-00189,2026-01-13,Te 20-pack,Beverages,3,33.15,99.45,card,completed
+S-20260113-01566,2026-01-13,Smör 500g,Dairy,2,49.9,99.8,swish,completed
+S-20260113-01330,2026-01-13,Cigaretter,Tobacco,1,71.1,71.1,card,completed
+S-20260113-00486,2026-01-13,Ris 1kg,Pantry,3,29.9,89.7,card,completed
+S-20260113-00351,2026-01-13,Bananer,Produce,1,28.4,28.4,card,completed
+S-20260113-00434,13/01/2026,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01375,13/01/2026,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-00533,2026-01-13,Glass,Frozen,5,39.9,199.5,card,completed
+S-20260113-01182,2026-01-13,Tvättmedel,household,3,79.9,239.7,swish,completed
+S-20260113-01174,13/01/2026,Tonfisk burk,Pantry,2,24.9,49.8,card,completed
+S-20260113-01387,2026-01-13,Tonfisk burk,Pantry,3,24.9,74.7,swish,completed
+S-20260113-02054,13/01/2026,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01627,2026-01-13,Frysta ärtor,Frozen,1,22.41,22.41,card,completed
+S-20260113-01736,2026-01-13,Äpplen,Produce,1,31.41,31.41,swish,completed
+S-20260113-00638,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,swish,completed
+S-20260113-00240,2026-01-13,Chips 275g,Snacks,2,28.4,56.8,swish,completed
+S-20260113-01546,2026-01-13,Smör 500g,Dairy,3,49.9,149.7,card,completed
+S-20260113-00375,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-00317,13/01/2026,Pasta 500g,Pantry,2,16.91,33.82,card,completed
+S-20260113-02057,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-01924,2026-01-13,Ägg 12-pack,Dairy,1,35.91,35.91,swish,completed
+S-20260113-01341,2026-01-13,Bananer,Produce,2,28.4,56.8,card,completed
+S-20260113-00603,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,swish,completed
+S-20260113-00651,2026-01-13,Tvättmedel,Household,1,79.9,79.9,cash,completed
+S-20260113-01860,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-01711,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-01507,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00423,2026-01-13,Diskmedel,Household,1,29.9,29.9,cash,completed
+S-20260113-00066,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01594,2026-01-13,Toalettpapper 8-pack,Household,3,59.9,179.7,card,completed
+S-20260113-00125,2026-01-13,Läsk 1.5L,Beverages,3,24.9,74.7,card,cancelled
+S-20260113-00101,2026-01-13,Ris 1kg,Pantry,2,26.91,53.82,cash,completed
+S-20260113-01554,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-00211,13/01/2026,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-00520,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01332,13/01/2026,Tonfisk burk,Pantry,3,23.65,70.95,card,completed
+S-20260113-01861,13/01/2026,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01934,13/01/2026,Gurka,Produce,1,19.9,19.9,cash,completed
+S-20260113-00439,13/01/2026,Tandkräm,Personal Care,3,29.9,89.7,card,completed
+S-20260113-01606,13/01/2026,Ris 1kg,Pantry,5,31.39,156.95,cash,done
+S-20260113-01290,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,cash,completed
+S-20260113-00480,2026-01-13,Smör 500g,Dairy,5,49.9,249.5,swish,completed
+S-20260113-02018,2026-01-13,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-01661,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01502,13/01/2026,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-00580,2026-01-13,Pasta 500g,Pantry,3,19.9,59.7,card,completed
+S-20260113-00197,2026-01-13,Tomater,Produce,2,41.9,83.8,card,completed
+S-20260113-00917,2026-01-13,Diskmedel,Household,1,29.9,,card,completed
+S-20260113-00185,2026-01-13,Krossade tomater,Pantry,1,12.66,12.66,card,completed
+S-20260113-00307,13/01/2026,Ris 1kg,Pantry,3,29.9,89.7,card,cancelled
+S-20260113-00299,13/01/2026,Godis påse,Snacks,3,19.9,59.7,card,completed
+S-20260113-01638,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-02008,2026-01-13,Äpplen,Produce,2,34.9,69.8,cash,completed
+S-20260113-01334,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-02001,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,cash,completed
+S-20260113-00325,13/01/2026,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-01513,13/01/2026,Gurka,Produce,5,18.9,94.5,swish,completed
+S-20260113-01079,2026-01-13,Chips 275g,Snacks,4,26.91,107.64,card,completed
+S-20260113-01121,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00415,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,swish,completed
+S-20260113-01212,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01464,13/01/2026,Tvättmedel,Household,2,71.91,143.82,card,completed
+S-20260113-00322,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,swish,completed
+S-20260113-00766,13/01/2026,Diskmedel,Household,2,29.9,59.8,swish,completed
+S-20260113-01230,2026-01-13,Krossade tomater,Pantry,2,14.15,28.3,card,completed
+S-20260113-00555,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00070,2026-01-13,Tandkräm,Personal Care,1,26.91,26.91,card,completed
+S-20260113-00213,2026-01-13,Mineralvatten 0.5L,Beverages,4,16.39,65.56,cash,completed
+S-20260113-01482,2026-01-13,Diskmedel,Household,2,32.89,65.78,card,completed
+S-20260113-01271,2026-01-13,Tomater,Produce,3,39.9,119.7,card,completed
+S-20260113-01499,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-01002,2026-01-13,Tandkräm,Personal Care,2,29.9,59.8,card,completed
+S-20260113-00694,13/01/2026,Gurka,Produce,2,19.9,39.8,swish,completed
+S-20260113-00753,13/01/2026,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-00100,13/01/2026,Tonfisk burk,Pantry,3,24.9,74.7,swish,completed
+S-20260113-01616,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00248,13/01/2026,Läsk 1.5L,Beverages,2,24.9,49.8,card,completed
+S-20260113-01893,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,Complete
+S-20260113-01759,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-01731,13/01/2026,Smör 500g,Dairy,1,49.9,49.9,swish,completed
+S-20260113-00746,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01842,2026-01-13,Mjölk 1L,Dairy,1,17.01,17.01,cash,completed
+S-20260113-02012,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01177,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-01492,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,swish,completed
+S-20260113-01318,13/01/2026,Tonfisk burk,pantry,1,24.9,24.9,card,completed
+S-20260113-00428,2026-01-13,Diskmedel,Household,2,29.9,59.8,card,done
+S-20260113-00772,13/01/2026,Chokladkaka,Snacks,1,22.41,22.41,card,completed
+S-20260113-01877,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,swish,completed
+S-20260113-00783,2026-01-13,Tandkräm,Personal Care,1,25.41,25.41,card,completed
+S-20260113-01248,2026-01-13,Chokladkaka,snacks,1,24.9,24.9,card,completed
+S-20260113-01838,2026-01-13,Diskmedel,Household,1,29.9,29.9,cash,completed
+S-20260113-01564,2026-01-13,Ris 1kg,Pantry,5,29.9,149.5,card,completed
+S-20260113-00298,2026-01-13,Frysta ärtor,Frozen,1,21.16,21.16,cash,completed
+S-20260113-00858,13/01/2026,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01086,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00433,2026-01-13,Bananer,Produce,1,25.41,25.41,card,completed
+S-20260113-00758,2026-01-13,Krossade tomater,Pantry,3,14.9,44.7,card,completed
+S-20260113-00835,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-01324,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-01447,2026-01-13,Tandkräm,Personal Care,2,29.9,59.8,swish,completed
+S-20260113-01976,2026-01-13,Tandkräm,Personal Care,1,28.4,28.4,card,completed
+S-20260113-01456,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,swish,completed
+S-20260113-00276,13/01/2026,Pasta 500g,Pantry,1,17.91,17.91,card,completed
+S-20260113-00255,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,swish,completed
+S-20260113-01365,2026-01-13,Te 20-pack,Beverages,3,34.9,104.7,card,completed
+S-20260113-01640,2026-01-13,Chips 275g,Snacks,3,29.9,89.7,card,completed
+S-20260113-00932,2026-01-13,Ägg 12-pack,dairy,1,39.9,39.9,cash,completed
+S-20260113-00368,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01438,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,done
+S-20260113-01583,13/01/2026,Tvättmedel,Household,2,79.9,159.8,card,completed
+S-20260113-01671,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00793,2026-01-13,Bröd Limpa,Bakery,2,26.91,53.82,card,completed
+S-20260113-00706,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,card,completed
+S-20260113-02043,2026-01-13,Toalettpapper 8-pack,Household,3,56.9,170.7,card,completed
+S-20260113-01678,2026-01-13,Bananer,Produce,1,29.9,29.9,card,done
+S-20260113-01628,2026-01-13,Schampo,Personal Care,3,47.4,142.2,card,refunded
+S-20260113-01894,2026-01-13,Mineralvatten 0.5L,Beverages,4,14.9,59.6,card,completed
+S-20260113-01600,2026-01-13,Gurka,Produce,1,17.91,17.91,card,completed
+S-20260113-00308,2026-01-13,Gurka,Produce,2,19.9,39.8,cash,Complete
+S-20260113-01873,13/01/2026,Chokladkaka,Snacks,5,24.9,124.5,card,completed
+S-20260113-01575,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,cash,completed
+S-20260113-00611,2026-01-13,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-00116,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,swish,completed
+S-20260113-01872,2026-01-13,Schampo,Personal Care,2,49.9,99.8,card,completed
+S-20260113-00232,2026-01-13,Cigaretter,Tobacco,1,71.1,71.1,swish,completed
+S-20260113-00343,2026-01-13,Tomater,Produce,3,39.9,119.7,card,completed
+S-20260113-01754,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,card,completed
+S-20260113-01733,2026-01-13,Bröd Limpa,Bakery,3,26.91,80.73,card,completed
+S-20260113-00926,2026-01-13,Cigaretter,Tobacco,1,75.05,75.05,swish,completed
+S-20260113-01069,13/01/2026,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00367,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00577,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01815,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00591,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01620,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01344,2026-01-13,Chips 275g,Snacks,4,29.9,119.6,card,completed
+S-20260113-01310,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,swish,completed
+S-20260113-01108,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00495,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00121,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,swish,completed
+S-20260113-01402,2026-01-13,Chips 275g,Snacks,4,29.9,119.6,swish,completed
+S-20260113-00618,13/01/2026,Chokladkaka,Snacks,2,24.9,49.8,card,completed
+S-20260113-00991,13/01/2026,Äpplen,Produce,1,31.41,31.41,swish,completed
+S-20260113-00573,13/01/2026,Ris 1kg,Pantry,3,29.9,89.7,card,completed
+S-20260113-00808,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01811,2026-01-13,Tomater,Produce,2,39.9,79.8,card,completed
+S-20260113-00136,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,swish,completed
+S-20260113-01757,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-02052,2026-01-13,Toalettpapper 8-pack,Household,3,59.9,179.7,card,completed
+S-20260113-01775,2026-01-13,Tomater,Produce,3,39.9,119.7,cash,completed
+S-20260113-00382,13/01/2026,Äpplen,Produce,2,34.9,69.8,swish,completed
+S-20260113-01117,2026-01-13,Bröd Limpa,Bakery,1,26.91,26.91,card,completed
+S-20260113-00773,2026-01-13,Pasta 500g,Pantry,2,16.91,33.82,card,completed
+S-20260113-01672,2026-01-13,Läsk 1.5L,Beverages,2,26.14,52.28,cash,completed
+S-20260113-00894,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00110,2026-01-13,Mjölk 1L,Dairy,2,17.95,35.9,card,completed
+S-20260113-01493,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,card,done
+S-20260113-01801,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00809,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-00680,2026-01-13,Bröd Limpa,Bakery,3,29.9,89.7,swish,completed
+S-20260113-00238,2026-01-13,Gurka,Produce,2,19.9,39.8,card,completed
+S-20260113-00915,13/01/2026,Läsk 1.5L,Beverages,2,24.9,49.8,card,completed
+S-20260113-01386,13/01/2026,Tandkräm,Personal Care,2,29.9,59.8,card,completed
+S-20260113-00064,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,Complete
+S-20260113-01035,2026-01-13,Frysta ärtor,frozen,1,27.39,27.39,card,completed
+S-20260113-00562,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01938,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00282,2026-01-13,Schampo,Personal Care,1,49.9,49.9,swish,completed
+S-20260113-00837,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01135,2026-01-13,Krossade tomater,Pantry,4,12.66,50.64,card,completed
+S-20260113-01425,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,card,completed
+S-20260113-00781,13/01/2026,Bananer,Produce,1,29.9,29.9,swish,completed
+S-20260113-01866,2026-01-13,Äpplen,Produce,1,34.9,34.9,swish,completed
+S-20260113-01625,2026-01-13,Äpplen,Produce,1,29.66,29.66,card,completed
+S-20260113-02022,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01702,2026-01-13,Tonfisk burk,Pantry,5,24.9,124.5,card,completed
+S-20260113-00553,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01652,13/01/2026,Mineralvatten 0.5L,Beverages,3,14.15,42.45,swish,completed
+S-20260113-00454,2026-01-13,Pasta 500g,Pantry,3,19.9,59.7,cash,completed
+S-20260113-00252,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-00582,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00994,2026-01-13,Diskmedel,Household,1,29.9,29.9,swish,Complete
+S-20260113-01677,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-00974,13/01/2026,Pasta 500g,Pantry,2,19.9,39.8,card,completed
+S-20260113-00472,2026-01-13,Te 20-pack,Beverages,3,34.9,104.7,cash,completed
+S-20260113-01764,13/01/2026,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-00300,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,cash,completed
+S-20260113-00122,13/01/2026,Smör 500g,Dairy,2,44.91,89.82,card,completed
+S-20260113-00556,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00024,13/01/2026,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-00728,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,swish,completed
+S-20260113-01991,13/01/2026,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00940,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-01284,2026-01-13,Tonfisk burk,Pantry,4,24.9,99.6,card,completed
+S-20260113-01233,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-01222,13/01/2026,Schampo,Personal Care,4,44.91,179.64,card,completed
+S-20260113-01442,13/01/2026,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00050,2026-01-13,Ris 1kg,Pantry,3,29.9,89.7,card,completed
+S-20260113-00174,2026-01-13,Tonfisk burk,Pantry,2,24.9,49.8,card,cancelled
+S-20260113-01740,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,Complete
+S-20260113-01778,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01490,2026-01-13,Krossade tomater,Pantry,2,12.66,25.32,card,completed
+S-20260113-01618,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00430,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01327,2026-01-13,Kaffe 500g,Beverages,2,62.91,125.82,card,completed
+S-20260113-00465,2026-01-13,Tvättmedel,Household,2,67.92,135.84,card,completed
+S-20260113-00383,2026-01-13,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-01719,2026-01-13,Godis påse,Snacks,2,19.9,39.8,card,completed
+S-20260113-01353,2026-01-13,Tandkräm,Personal Care,5,29.9,149.5,cash,completed
+S-20260113-01234,2026-01-13,Bananer,Produce,2,29.9,59.8,swish,completed
+S-20260113-02040,2026-01-13,Frysta ärtor,frozen,2,24.9,49.8,card,completed
+S-20260113-00905,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00484,2026-01-13,Te 20-pack,Beverages,1,34.9,,card,completed
+S-20260113-00257,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,swish,done
+S-20260113-00369,2026-01-13,Toalettpapper 8-pack,Household,3,53.91,161.73,card,completed
+S-20260113-01660,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01537,2026-01-13,Bananer,Produce,1,29.9,29.9,swish,completed
+S-20260113-02019,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-01019,13/01/2026,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-01007,2026-01-13,Te 20-pack,beverages,4,34.9,139.6,card,completed
+S-20260113-00975,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,Complete
+S-20260113-00652,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,swish,completed
+S-20260113-01272,13/01/2026,Frysta ärtor,Frozen,2,22.41,44.82,card,completed
+S-20260113-01475,13/01/2026,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-00362,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-00810,2026-01-13,Läsk 1.5L,Beverages,3,24.9,74.7,card,completed
+S-20260113-00671,13/01/2026,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00901,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00290,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00271,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01335,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-01703,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01718,2026-01-13,Ägg 12-pack,Dairy,1,37.9,37.9,cash,completed
+S-20260113-01122,2026-01-13,Schampo,Personal Care,3,49.9,149.7,swish,completed
+S-20260113-01589,2026-01-13,Ägg 12-pack,Dairy,2,39.9,79.8,card,completed
+S-20260113-00026,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,refunded
+S-20260113-01316,2026-01-13,Schampo,Personal Care,2,49.9,99.8,card,completed
+S-20260113-00079,2026-01-13,Godis påse,Snacks,3,19.9,59.7,card,completed
+S-20260113-00880,13/01/2026,Glass,Frozen,1,39.9,39.9,swish,completed
+S-20260113-00033,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-00412,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-00352,13/01/2026,Te 20-pack,Beverages,1,34.9,,card,completed
+S-20260113-01767,2026-01-13,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-01111,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,swish,completed
+S-20260113-00164,13/01/2026,Chips 275g,Snacks,2,29.9,59.8,swish,completed
+S-20260113-00204,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,card,completed
+S-20260113-00707,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00760,13/01/2026,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-01348,13/01/2026,Chips 275g,Snacks,2,29.9,59.8,swish,completed
+S-20260113-00985,2026-01-13,Frysta ärtor,Frozen,2,26.14,52.28,card,completed
+S-20260113-00306,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00908,13/01/2026,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-00765,13/01/2026,Läsk 1.5L,Beverages,4,24.9,99.6,card,completed
+S-20260113-02046,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,card,completed
+S-20260113-00496,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,Complete
+S-20260113-01608,2026-01-13,Tvättmedel,Household,1,79.9,79.9,cash,completed
+S-20260113-00421,2026-01-13,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-01428,2026-01-13,Tomater,Produce,2,39.9,79.8,swish,Complete
+S-20260113-00219,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-02011,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,card,completed
+S-20260113-00922,2026-01-13,Bananer,Produce,1,29.9,29.9,card,done
+S-20260113-00675,2026-01-13,Smör 500g,Dairy,2,49.9,99.8,swish,completed
+S-20260113-01935,2026-01-13,Diskmedel,Household,2,29.9,59.8,card,completed
+S-20260113-01889,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-00060,2026-01-13,Chokladkaka,Snacks,1,23.65,23.65,card,completed
+S-20260113-01107,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,done
+S-20260113-01670,13/01/2026,Frysta ärtor,Frozen,1,24.9,24.9,cash,completed
+S-20260113-01226,2026-01-13,Tomater,Produce,1,37.9,37.9,card,completed
+S-20260113-00074,2026-01-13,Krossade tomater,Pantry,3,12.66,37.98,swish,completed
+S-20260113-00163,13/01/2026,Frysta ärtor,Frozen,1,24.9,24.9,swish,completed
+S-20260113-00614,2026-01-13,Cigaretter,Tobacco,1,86.9,86.9,cash,completed
+S-20260113-01802,2026-01-13,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-00589,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01090,2026-01-13,Te 20-pack,Beverages,1,31.41,31.41,card,completed
+S-20260113-00631,2026-01-13,Cigaretter,Tobacco,1,75.05,75.05,swish,completed
+S-20260113-01221,2026-01-13,Glass,frozen,3,39.9,119.7,card,completed
+S-20260113-00046,2026-01-13,Tandkräm,Personal Care,1,25.41,25.41,card,completed
+S-20260113-01990,2026-01-13,Tonfisk burk,Pantry,1,24.9,,card,completed
+S-20260113-00384,2026-01-13,Cigaretter,Tobacco,1,75.05,75.05,swish,completed
+S-20260113-00479,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-00585,2026-01-13,Bananer,Produce,2,25.41,50.82,card,completed
+S-20260113-00077,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-01996,2026-01-13,Chokladkaka,Snacks,5,24.9,124.5,cash,done
+S-20260113-01473,13/01/2026,Ägg 12-pack,Dairy,1,37.9,37.9,swish,refunded
+S-20260113-00705,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00592,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01054,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01918,2026-01-13,Tonfisk burk,Pantry,2,24.9,49.8,card,completed
+S-20260113-01698,13/01/2026,Toalettpapper 8-pack,Household,1,59.9,59.9,card,done
+S-20260113-00031,13/01/2026,Tomater,Produce,2,39.9,79.8,card,completed
+S-20260113-01810,2026-01-13,Mineralvatten 0.5L,Beverages,3,14.9,44.7,card,completed
+S-20260113-01574,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-01519,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,refunded
+S-20260113-01520,2026-01-13,Krossade tomater,Pantry,5,14.9,74.5,card,Complete
+S-20260113-01515,13/01/2026,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-00716,13/01/2026,Tandkräm,Personal Care,4,29.9,119.6,card,completed
+S-20260113-00549,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01612,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-01629,2026-01-13,Schampo,Personal Care,2,49.9,99.8,swish,completed
+S-20260113-01526,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-01741,13/01/2026,Frysta ärtor,Frozen,3,24.9,74.7,card,completed
+S-20260113-00345,13/01/2026,Mjölk 1L,Dairy,2,17.01,34.02,card,completed
+S-20260113-00045,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-00487,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,swish,completed
+S-20260113-00169,2026-01-13,Godis påse,Snacks,3,19.9,59.7,swish,completed
+S-20260113-00304,13/01/2026,Chokladkaka,Snacks,2,24.9,49.8,card,completed
+S-20260113-00544,13/01/2026,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01746,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-00353,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-02005,2026-01-13,Gurka,Produce,4,19.9,79.6,card,completed
+S-20260113-01831,2026-01-13,Te 20-pack,Beverages,5,34.9,174.5,card,refunded
+S-20260113-01474,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-00711,2026-01-13,Tandkräm,Personal Care,2,25.41,50.82,card,completed
+S-20260113-00615,2026-01-13,Glass,Frozen,1,35.91,35.91,card,completed
+S-20260113-00939,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,cash,completed
+S-20260113-00621,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00679,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01095,2026-01-13,Glass,Frozen,1,39.9,39.9,card,cancelled
+S-20260113-01555,13/01/2026,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-00354,2026-01-13,Godis påse,Snacks,1,17.91,17.91,card,completed
+S-20260113-00702,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01527,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00889,13/01/2026,Gurka,Produce,2,16.91,33.82,card,completed
+S-20260113-00186,2026-01-13,Glass,Frozen,3,39.9,119.7,card,completed
+S-20260113-01826,2026-01-13,Diskmedel,Household,2,29.9,59.8,card,completed
+S-20260113-00535,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,cash,completed
+S-20260113-00681,2026-01-13,Schampo,Personal Care,2,49.9,99.8,card,completed
+S-20260113-01252,13/01/2026,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00301,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-01717,2026-01-13,Läsk 1.5L,beverages,3,21.16,63.48,card,completed
+S-20260113-00756,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01010,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-01794,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,cash,Complete
+S-20260113-00394,2026-01-13,Ris 1kg,pantry,1,29.9,29.9,card,completed
+S-20260113-02013,2026-01-13,Frysta ärtor,Frozen,2,22.41,44.82,card,completed
+S-20260113-01420,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-01038,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,swish,completed
+S-20260113-00176,2026-01-13,Glass,Frozen,3,39.9,119.7,card,completed
+S-20260113-02031,13/01/2026,Godis påse,Snacks,2,19.9,39.8,card,completed
+S-20260113-00528,13/01/2026,Schampo,Personal Care,1,49.9,49.9,swish,completed
+S-20260113-00737,2026-01-13,Tandkräm,Personal Care,2,29.9,59.8,card,completed
+S-20260113-01673,2026-01-13,Tomater,Produce,1,33.91,33.91,card,Complete
+S-20260113-00124,2026-01-13,Glass,Frozen,3,39.9,119.7,cash,completed
+S-20260113-01886,2026-01-13,Tonfisk burk,Pantry,3,24.9,74.7,card,completed
+S-20260113-00395,2026-01-13,Chokladkaka,Snacks,2,24.9,49.8,card,completed
+S-20260113-00693,2026-01-13,Schampo,Personal Care,3,42.41,127.23,card,completed
+S-20260113-00819,2026-01-13,Ägg 12-pack,Dairy,1,41.9,41.9,card,completed
+S-20260113-00040,2026-01-13,Tomater,Produce,2,39.9,79.8,swish,completed
+S-20260113-00927,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-00530,13/01/2026,Tvättmedel,Household,1,75.91,75.91,cash,completed
+S-20260113-00332,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-00650,2026-01-13,Diskmedel,Household,3,29.9,89.7,card,completed
+S-20260113-00409,2026-01-13,Gurka,Produce,2,21.89,43.78,card,completed
+S-20260113-00195,13/01/2026,Kaffe 500g,Beverages,2,69.9,139.8,card,completed
+S-20260113-00782,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-01982,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,cash,completed
+S-20260113-01781,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,card,done
+S-20260113-00323,2026-01-13,Tvättmedel,Household,1,67.92,67.92,card,completed
+S-20260113-01333,13/01/2026,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-00267,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00620,2026-01-13,Ägg 12-pack,Dairy,4,37.9,151.6,cash,completed
+S-20260113-01489,13/01/2026,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01379,2026-01-13,Chokladkaka,Snacks,2,24.9,49.8,card,completed
+S-20260113-00068,2026-01-13,Tonfisk burk,Pantry,1,27.39,27.39,cash,completed
+S-20260113-01445,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01789,2026-01-13,Ägg 12-pack,Dairy,2,39.9,79.8,swish,completed
+S-20260113-01236,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00775,13/01/2026,Tvättmedel,Household,1,79.9,79.9,cash,completed
+S-20260113-01547,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01037,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-01470,13/01/2026,Ris 1kg,Pantry,2,29.9,59.8,card,completed
+S-20260113-00508,2026-01-13,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-00583,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,swish,completed
+S-20260113-00953,2026-01-13,Tvättmedel,Household,1,79.9,79.9,cash,completed
+S-20260113-01745,13/01/2026,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-01713,2026-01-13,Godis påse,Snacks,2,19.9,39.8,card,completed
+S-20260113-01884,2026-01-13,Tvättmedel,Household,1,67.92,67.92,swish,completed
+S-20260113-01014,2026-01-13,Tandkräm,personal care,1,29.9,29.9,card,completed
+S-20260113-00977,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,swish,completed
+S-20260113-00483,2026-01-13,Cigaretter,Tobacco,1,82.95,82.95,card,completed
+S-20260113-00451,2026-01-13,Smör 500g,Dairy,2,49.9,99.8,card,completed
+S-20260113-01543,2026-01-13,Mjölk 1L,Dairy,1,17.01,17.01,swish,completed
+S-20260113-01592,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-01641,2026-01-13,Schampo,Personal Care,4,49.9,199.6,card,completed
+S-20260113-01724,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-02000,13/01/2026,Gurka,Produce,2,20.89,41.78,card,completed
+S-20260113-01183,13/01/2026,Mjölk 1L,Dairy,1,18.9,18.9,swish,completed
+S-20260113-01573,13/01/2026,Diskmedel,Household,3,29.9,89.7,card,completed
+S-20260113-01559,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,cash,completed
+S-20260113-01508,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,cash,completed
+S-20260113-00979,13/01/2026,Diskmedel,Household,5,29.9,,swish,completed
+S-20260113-00262,13/01/2026,Toalettpapper 8-pack,Household,3,59.9,179.7,card,completed
+S-20260113-01323,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-01943,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00241,2026-01-13,Tvättmedel,Household,2,75.91,151.82,swish,completed
+S-20260113-01081,13/01/2026,Kaffe 500g,Beverages,2,69.9,139.8,card,completed
+S-20260113-00882,2026-01-13,Ris 1kg,Pantry,1,32.89,32.89,card,completed
+S-20260113-01103,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-01294,2026-01-13,Diskmedel,Household,4,29.9,119.6,card,completed
+S-20260113-00535,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,cash,Complete
+S-20260113-01299,13/01/2026,Frysta ärtor,Frozen,1,22.41,22.41,card,refunded
+S-20260113-00366,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01460,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,swish,completed
+S-20260113-01289,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,swish,completed
+S-20260113-01712,2026-01-13,Te 20-pack,Beverages,1,31.41,31.41,card,completed
+S-20260113-01434,2026-01-13,Diskmedel,Household,2,29.9,59.8,card,completed
+S-20260113-00539,2026-01-13,Tonfisk burk,Pantry,4,21.16,84.64,card,completed
+S-20260113-00619,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-00072,13/01/2026,Schampo,Personal Care,1,49.9,49.9,swish,completed
+S-20260113-01617,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00260,13/01/2026,Chips 275g,Snacks,1,29.9,29.9,cash,completed
+S-20260113-00052,2026-01-13,Chokladkaka,Snacks,2,21.16,42.32,card,completed
+S-20260113-00199,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00951,13/01/2026,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-00695,13/01/2026,Bröd Limpa,Bakery,2,29.9,59.8,swish,completed
+S-20260113-00333,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,swish,completed
+S-20260113-01413,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,swish,completed
+S-20260113-01840,2026-01-13,Äpplen,Produce,3,34.9,104.7,card,completed
+S-20260113-01684,13/01/2026,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-00875,2026-01-13,Gurka,Produce,1,19.9,,card,completed
+S-20260113-01024,2026-01-13,Pasta 500g,pantry,2,16.91,33.82,card,completed
+S-20260113-01238,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00965,2026-01-13,Ris 1kg,Pantry,3,29.9,89.7,swish,completed
+S-20260113-00945,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00747,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,cash,completed
+S-20260113-00427,2026-01-13,Ägg 12-pack,Dairy,3,35.91,107.73,card,completed
+S-20260113-01790,13/01/2026,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-01454,13/01/2026,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00788,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,card,Complete
+S-20260113-01041,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00721,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,cash,cancelled
+S-20260113-00344,2026-01-13,Bananer,Produce,1,29.9,29.9,swish,completed
+S-20260113-01282,2026-01-13,Kaffe 500g,Beverages,3,66.41,199.23,card,completed
+S-20260113-02053,2026-01-13,Tomater,Produce,2,39.9,79.8,swish,completed
+S-20260113-00399,13/01/2026,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-00608,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00463,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01743,2026-01-13,Ris 1kg,Pantry,1,25.41,25.41,card,completed
+S-20260113-00437,2026-01-13,Toalettpapper 8-pack,Household,3,62.9,188.7,card,completed
+S-20260113-00193,2026-01-13,Glass,frozen,3,39.9,119.7,card,completed
+S-20260113-01494,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01371,2026-01-13,Diskmedel,Household,3,29.9,89.7,card,completed
+S-20260113-00293,2026-01-13,Läsk 1.5L,Beverages,2,21.16,42.32,card,completed
+S-20260113-00446,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01610,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,refunded
+S-20260113-00862,2026-01-13,Tomater,Produce,1,39.9,39.9,cash,completed
+S-20260113-01525,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-01680,2026-01-13,Schampo,Personal Care,2,49.9,99.8,cash,completed
+S-20260113-01567,13/01/2026,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00142,2026-01-13,Ägg 12-pack,Dairy,1,33.91,33.91,swish,completed
+S-20260113-01921,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00003,2026-01-13,Toalettpapper 8-pack,Household,1,50.91,50.91,card,completed
+S-20260113-01613,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,swish,completed
+S-20260113-00594,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-01947,2026-01-13,Tandkräm,Personal Care,3,29.9,89.7,cash,completed
+S-20260113-01342,13/01/2026,Mjölk 1L,Dairy,1,17.01,17.01,card,completed
+S-20260113-00340,13/01/2026,Chips 275g,Snacks,2,29.9,59.8,swish,completed
+S-20260113-01232,13/01/2026,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-00266,2026-01-13,Tvättmedel,Household,1,67.92,67.92,card,completed
+S-20260113-00377,2026-01-13,Pasta 500g,pantry,1,19.9,19.9,card,completed
+S-20260113-01824,13/01/2026,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00440,2026-01-13,Tonfisk burk,Pantry,1,27.39,27.39,card,completed
+S-20260113-00272,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,cancelled
+S-20260113-00245,2026-01-13,Tonfisk burk,Pantry,2,24.9,49.8,card,completed
+S-20260113-00584,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-01476,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01545,2026-01-13,Chokladkaka,Snacks,1,22.41,22.41,card,completed
+S-20260113-01382,2026-01-13,Smör 500g,Dairy,1,42.41,42.41,swish,completed
+S-20260113-00416,13/01/2026,Krossade tomater,Pantry,1,14.15,14.15,card,completed
+S-20260113-00274,13/01/2026,Ägg 12-pack,Dairy,3,39.9,119.7,card,completed
+S-20260113-00778,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00251,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,card,completed
+S-20260113-00414,2026-01-13,Krossade tomater,Pantry,1,14.9,,swish,completed
+S-20260113-01359,2026-01-13,Bananer,Produce,1,29.9,29.9,card,cancelled
+S-20260113-00311,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01595,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00597,2026-01-13,Tomater,Produce,2,41.9,83.8,card,completed
+S-20260113-00426,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,swish,completed
+S-20260113-01952,2026-01-13,Äpplen,Produce,2,34.9,,swish,completed
+S-20260113-00568,2026-01-13,Bröd Limpa,Bakery,1,31.39,31.39,card,completed
+S-20260113-01691,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-02021,13/01/2026,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01538,2026-01-13,Tvättmedel,Household,1,67.92,67.92,card,completed
+S-20260113-01651,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00586,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00527,2026-01-13,Tvättmedel,Household,2,79.9,159.8,card,completed
+S-20260113-01291,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,cash,completed
+S-20260113-01907,2026-01-13,Tonfisk burk,Pantry,3,24.9,74.7,card,completed
+S-20260113-00183,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00171,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-00600,2026-01-13,Tvättmedel,Household,1,71.91,71.91,card,completed
+S-20260113-00893,2026-01-13,Tonfisk burk,Pantry,2,26.14,52.28,card,completed
+S-20260113-01954,2026-01-13,Chokladkaka,Snacks,3,24.9,74.7,card,completed
+S-20260113-01819,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01927,2026-01-13,Godis påse,Snacks,1,19.9,,card,completed
+S-20260113-01576,13/01/2026,Gurka,Produce,2,19.9,39.8,card,completed
+S-20260113-00273,13/01/2026,Schampo,Personal Care,1,52.4,52.4,card,completed
+S-20260113-01611,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-01193,13/01/2026,Ris 1kg,Pantry,1,26.91,26.91,card,completed
+S-20260113-01293,13/01/2026,Tandkräm,Personal Care,1,28.4,28.4,cash,completed
+S-20260113-00372,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-00223,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00768,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00655,2026-01-13,Chips 275g,Snacks,1,29.9,,card,completed
+S-20260113-01329,2026-01-13,Bröd Limpa,bakery,2,29.9,59.8,swish,completed
+S-20260113-00519,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00335,2026-01-13,Tvättmedel,Household,1,67.92,67.92,card,completed
+S-20260113-00742,2026-01-13,Chips 275g,Snacks,3,26.91,80.73,card,completed
+S-20260113-01421,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01139,2026-01-13,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-01287,2026-01-13,Smör 500g,Dairy,1,44.91,44.91,card,completed
+S-20260113-00016,2026-01-13,Tomater,Produce,2,39.9,79.8,card,completed
+S-20260113-01045,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,cash,completed
+S-20260113-01685,2026-01-13,Cigaretter,Tobacco,1,67.15,67.15,card,completed
+S-20260113-01601,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,cash,completed
+S-20260113-01914,13/01/2026,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-00571,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-02020,13/01/2026,Te 20-pack,Beverages,3,34.9,104.7,card,completed
+S-20260113-00969,13/01/2026,Diskmedel,Household,2,29.9,59.8,swish,completed
+S-20260113-00466,13/01/2026,Tomater,Produce,1,37.9,37.9,card,completed
+S-20260113-00820,2026-01-13,Läsk 1.5L,Beverages,3,24.9,74.7,card,completed
+S-20260113-00200,2026-01-13,Chips 275g,Snacks,1,28.4,28.4,card,completed
+S-20260113-01984,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01101,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01179,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01352,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,Complete
+S-20260113-00907,13/01/2026,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-01557,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,swish,completed
+S-20260113-01457,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01472,2026-01-13,Äpplen,Produce,2,38.39,76.78,card,completed
+S-20260113-01385,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01390,2026-01-13,Läsk 1.5L,Beverages,3,27.39,82.17,card,completed
+S-20260113-01532,2026-01-13,Chips 275g,Snacks,4,29.9,119.6,card,completed
+S-20260113-00044,2026-01-13,Äpplen,Produce,1,33.15,33.15,card,completed
+S-20260113-00275,2026-01-13,Toalettpapper 8-pack,Household,1,53.91,53.91,swish,completed
+S-20260113-01714,13/01/2026,Tvättmedel,Household,2,79.9,159.8,card,completed
+S-20260113-00102,2026-01-13,Ägg 12-pack,Dairy,2,33.91,67.82,card,completed
+S-20260113-00933,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,swish,completed
+S-20260113-01448,2026-01-13,Ägg 12-pack,Dairy,3,39.9,119.7,card,completed
+S-20260113-01028,13/01/2026,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-00108,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,Complete
+S-20260113-00734,2026-01-13,Schampo,Personal Care,1,49.9,49.9,cash,completed
+S-20260113-00498,13/01/2026,Frysta ärtor,Frozen,1,27.39,27.39,card,completed
+S-20260113-02055,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01006,2026-01-13,Gurka,Produce,1,19.9,19.9,swish,completed
+S-20260113-00860,13/01/2026,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01422,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01902,2026-01-13,Bananer,Produce,1,31.39,31.39,card,completed
+S-20260113-01478,2026-01-13,Tvättmedel,household,1,79.9,79.9,card,completed
+S-20260113-01655,2026-01-13,Godis påse,Snacks,1,19.9,19.9,swish,done
+S-20260113-01106,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,Complete
+S-20260113-00073,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01888,13/01/2026,Schampo,Personal Care,2,49.9,99.8,card,completed
+S-20260113-01263,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-01742,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,swish,completed
+S-20260113-01286,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,swish,Complete
+S-20260113-00482,13/01/2026,Schampo,Personal Care,2,49.9,99.8,card,completed
+S-20260113-01114,2026-01-13,Bananer,Produce,1,29.9,29.9,cash,completed
+S-20260113-00507,2026-01-13,Tomater,Produce,2,41.9,83.8,cash,completed
+S-20260113-00722,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,swish,completed
+S-20260113-00950,2026-01-13,Ris 1kg,Pantry,2,25.41,50.82,card,completed
+S-20260113-02059,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-00789,13/01/2026,Smör 500g,Dairy,1,49.9,49.9,swish,completed
+S-20260113-00708,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00924,13/01/2026,Pasta 500g,Pantry,3,19.9,59.7,swish,completed
+S-20260113-00312,13/01/2026,Diskmedel,Household,2,29.9,59.8,cash,completed
+S-20260113-00887,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00406,2026-01-13,Gurka,Produce,2,18.9,37.8,card,cancelled
+S-20260113-00868,13/01/2026,Frysta ärtor,Frozen,2,24.9,49.8,swish,completed
+S-20260113-00745,2026-01-13,Diskmedel,Household,1,25.41,25.41,swish,completed
+S-20260113-01191,2026-01-13,Diskmedel,Household,1,28.4,28.4,card,completed
+S-20260113-00310,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,cash,completed
+S-20260113-00227,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,card,completed
+S-20260113-01766,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00757,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-01800,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,cash,completed
+S-20260113-01561,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00850,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00149,13/01/2026,Diskmedel,Household,4,29.9,119.6,card,completed
+S-20260113-01380,13/01/2026,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-01164,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,cash,completed
+S-20260113-01388,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00874,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01518,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00576,2026-01-13,Gurka,Produce,1,19.9,19.9,swish,completed
+S-20260113-00558,13/01/2026,Godis påse,Snacks,3,21.89,65.67,card,completed
+S-20260113-01942,2026-01-13,Chokladkaka,Snacks,1,26.14,26.14,card,completed
+S-20260113-00744,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-01203,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-01437,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-01209,2026-01-13,Tonfisk burk,Pantry,2,24.9,49.8,swish,completed
+S-20260113-01376,2026-01-13,Te 20-pack,Beverages,1,38.39,38.39,card,completed
+S-20260113-00168,2026-01-13,Bröd Limpa,Bakery,3,29.9,89.7,card,completed
+S-20260113-00944,2026-01-13,Diskmedel,Household,2,29.9,59.8,card,completed
+S-20260113-00287,13/01/2026,Chips 275g,Snacks,2,29.9,59.8,cash,completed
+S-20260113-01667,2026-01-13,Tvättmedel,Household,1,79.9,79.9,swish,completed
+S-20260113-00787,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00629,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00599,13/01/2026,Diskmedel,Household,2,29.9,59.8,card,completed
+S-20260113-00999,2026-01-13,Chokladkaka,Snacks,1,23.65,23.65,card,completed
+S-20260113-01854,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-01700,2026-01-13,Gurka,Produce,3,19.9,59.7,cash,completed
+S-20260113-01710,2026-01-13,Cigaretter,Tobacco,2,79.0,158.0,card,completed
+S-20260113-01085,2026-01-13,Godis påse,Snacks,1,18.9,18.9,swish,completed
+S-20260113-01279,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00863,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,swish,completed
+S-20260113-01791,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01522,2026-01-13,Tvättmedel,Household,2,79.9,159.8,swish,completed
+S-20260113-01305,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00818,2026-01-13,Krossade tomater,Pantry,1,15.65,15.65,card,completed
+S-20260113-00610,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-01362,2026-01-13,Tonfisk burk,Pantry,4,24.9,99.6,card,completed
+S-20260113-01469,2026-01-13,Ägg 12-pack,Dairy,3,39.9,119.7,swish,completed
+S-20260113-01481,2026-01-13,Diskmedel,Household,2,29.9,59.8,swish,completed
+S-20260113-01857,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-01058,2026-01-13,Mjölk 1L,Dairy,1,17.95,17.95,swish,completed
+S-20260113-00494,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01848,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-00278,2026-01-13,Godis påse,Snacks,2,19.9,39.8,card,completed
+S-20260113-01923,13/01/2026,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00359,2026-01-13,Tandkräm,personal care,1,29.9,29.9,card,completed
+S-20260113-01158,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,cash,completed
+S-20260113-00237,2026-01-13,Cigaretter,Tobacco,2,79.0,158.0,card,completed
+S-20260113-00552,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-01944,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00963,2026-01-13,Tomater,Produce,3,39.9,119.7,card,completed
+S-20260113-00209,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01443,2026-01-13,Godis påse,Snacks,2,19.9,39.8,card,done
+S-20260113-01622,2026-01-13,Äpplen,Produce,2,34.9,69.8,cash,completed
+S-20260113-00059,2026-01-13,Schampo,Personal Care,3,42.41,127.23,card,completed
+S-20260113-00632,2026-01-13,Schampo,Personal Care,1,49.9,49.9,cash,completed
+S-20260113-01646,2026-01-13,Äpplen,Produce,3,34.9,104.7,cash,completed
+S-20260113-01936,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-02060,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,swish,completed
+S-20260113-00364,2026-01-13,Godis påse,Snacks,4,18.9,75.6,card,completed
+S-20260113-00506,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-01963,13/01/2026,Chips 275g,snacks,2,29.9,59.8,card,completed
+S-20260113-01229,13/01/2026,Bananer,Produce,3,25.41,76.23,swish,completed
+S-20260113-01666,2026-01-13,Läsk 1.5L,Beverages,2,24.9,49.8,card,completed
+S-20260113-01883,2026-01-13,Äpplen,Produce,2,29.66,59.32,card,completed
+S-20260113-01288,2026-01-13,Kaffe 500g,Beverages,3,69.9,209.7,cash,completed
+S-20260113-01407,2026-01-13,Mineralvatten 0.5L,Beverages,1,12.66,12.66,card,completed
+S-20260113-00987,2026-01-13,Glass,Frozen,4,35.91,143.64,card,completed
+S-20260113-00119,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-02016,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01656,2026-01-13,Schampo,Personal Care,1,42.41,42.41,card,completed
+S-20260113-00523,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,cash,completed
+S-20260113-00514,2026-01-13,Tvättmedel,Household,2,79.9,159.8,swish,completed
+S-20260113-00082,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-01852,13/01/2026,Glass,Frozen,2,39.9,79.8,swish,completed
+S-20260113-01381,2026-01-13,Ägg 12-pack,dairy,1,39.9,39.9,card,completed
+S-20260113-01367,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00381,2026-01-13,Kaffe 500g,Beverages,3,69.9,209.7,swish,completed
+S-20260113-01074,13/01/2026,Krossade tomater,Pantry,3,14.9,44.7,cash,completed
+S-20260113-01756,13/01/2026,Mjölk 1L,Dairy,2,17.95,35.9,swish,completed
+S-20260113-00085,2026-01-13,Mjölk 1L,Dairy,4,18.9,75.6,card,completed
+S-20260113-01744,2026-01-13,Bananer,Produce,2,29.9,59.8,swish,done
+S-20260113-00673,2026-01-13,Pasta 500g,Pantry,1,18.9,18.9,card,completed
+S-20260113-00330,2026-01-13,Smör 500g,dairy,2,49.9,99.8,card,completed
+S-20260113-00007,13/01/2026,Läsk 1.5L,Beverages,1,24.9,24.9,swish,completed
+S-20260113-00890,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00807,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,swish,completed
+S-20260113-00980,2026-01-13,Ägg 12-pack,Dairy,5,39.9,199.5,card,completed
+S-20260113-00938,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00452,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,card,completed
+S-20260113-00491,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01542,13/01/2026,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00288,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.15,14.15,card,completed
+S-20260113-02035,13/01/2026,Tonfisk burk,Pantry,2,24.9,49.8,card,completed
+S-20260113-00088,13/01/2026,Tomater,produce,1,39.9,39.9,card,completed
+S-20260113-01423,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,Complete
+S-20260113-00813,13/01/2026,Ägg 12-pack,Dairy,4,35.91,143.64,card,completed
+S-20260113-01270,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-00856,2026-01-13,Chokladkaka,Snacks,3,23.65,70.95,card,completed
+S-20260113-01948,2026-01-13,Krossade tomater,Pantry,1,13.41,13.41,card,completed
+S-20260113-01199,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00943,13/01/2026,Mineralvatten 0.5L,beverages,1,14.9,14.9,card,completed
+S-20260113-00986,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-01134,2026-01-13,Mjölk 1L,Dairy,4,18.9,75.6,card,completed
+S-20260113-01974,2026-01-13,Smör 500g,Dairy,1,44.91,44.91,card,completed
+S-20260113-00328,2026-01-13,Tvättmedel,Household,2,79.9,159.8,card,completed
+S-20260113-00443,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-01787,2026-01-13,Godis påse,Snacks,3,19.9,59.7,card,completed
+S-20260113-01125,2026-01-13,Diskmedel,household,3,29.9,89.7,card,completed
+S-20260113-01205,13/01/2026,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-00942,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,swish,completed
+S-20260113-00178,2026-01-13,Bananer,Produce,1,32.89,32.89,card,completed
+S-20260113-00786,13/01/2026,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-01539,2026-01-13,Ägg 12-pack,Dairy,2,33.91,67.82,swish,completed
+S-20260113-00087,13/01/2026,Chips 275g,Snacks,2,29.9,59.8,card,completed
+S-20260113-01467,13/01/2026,Diskmedel,Household,2,29.9,59.8,card,completed
+S-20260113-01978,2026-01-13,Mjölk 1L,Dairy,3,18.9,56.7,card,completed
+S-20260113-00458,13/01/2026,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01903,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00055,13/01/2026,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01563,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,swish,completed
+S-20260113-00644,13/01/2026,Läsk 1.5L,Beverages,2,24.9,49.8,card,completed
+S-20260113-00678,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-00222,13/01/2026,Tandkräm,Personal Care,2,25.41,50.82,card,completed
+S-20260113-00114,2026-01-13,Tomater,Produce,3,39.9,119.7,card,completed
+S-20260113-01042,2026-01-13,Frysta ärtor,Frozen,4,24.9,99.6,swish,completed
+S-20260113-01363,13/01/2026,Pasta 500g,Pantry,3,19.9,59.7,card,completed
+S-20260113-01051,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-00175,2026-01-13,Godis påse,Snacks,1,19.9,19.9,cash,completed
+S-20260113-00833,13/01/2026,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-00590,2026-01-13,Toalettpapper 8-pack,Household,4,59.9,239.6,card,completed
+S-20260113-01621,13/01/2026,Mjölk 1L,Dairy,2,18.9,37.8,card,Complete
+S-20260113-00019,13/01/2026,Smör 500g,Dairy,2,49.9,99.8,card,completed
+S-20260113-00424,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-01395,2026-01-13,Ris 1kg,Pantry,3,29.9,89.7,card,completed
+S-20260113-00286,2026-01-13,Diskmedel,Household,1,28.4,28.4,card,completed
+S-20260113-01645,2026-01-13,Mjölk 1L,Dairy,3,18.9,56.7,swish,completed
+S-20260113-00429,13/01/2026,Toalettpapper 8-pack,Household,3,53.91,161.73,card,completed
+S-20260113-01908,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01799,2026-01-13,Smör 500g,Dairy,2,49.9,99.8,card,completed
+S-20260113-00670,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00032,2026-01-13,Tandkräm,Personal Care,1,28.4,28.4,card,completed
+S-20260113-01424,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-00723,2026-01-13,Diskmedel,Household,3,29.9,89.7,swish,completed
+S-20260113-01188,2026-01-13,Smör 500g,Dairy,2,44.91,89.82,cash,completed
+S-20260113-00215,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-01910,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,swish,completed
+S-20260113-01972,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-01034,13/01/2026,Mjölk 1L,Dairy,2,18.9,37.8,swish,completed
+S-20260113-00327,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00561,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-01160,2026-01-13,Smör 500g,Dairy,3,49.9,149.7,card,done
+S-20260113-00701,2026-01-13,Bröd Limpa,Bakery,1,29.9,,card,completed
+S-20260113-00983,2026-01-13,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-01308,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00342,13/01/2026,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-00630,2026-01-13,Toalettpapper 8-pack,household,2,59.9,119.8,card,completed
+S-20260113-00148,13/01/2026,Bananer,Produce,3,29.9,89.7,cash,cancelled
+S-20260113-01245,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,swish,completed
+S-20260113-00361,2026-01-13,Krossade tomater,Pantry,3,15.65,46.95,swish,completed
+S-20260113-00084,2026-01-13,Tonfisk burk,Pantry,1,21.16,21.16,swish,completed
+S-20260113-00049,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-00469,2026-01-13,Bröd Limpa,Bakery,1,28.4,28.4,card,completed
+S-20260113-00156,13/01/2026,Pasta 500g,Pantry,1,16.91,16.91,card,completed
+S-20260113-01937,2026-01-13,Diskmedel,Household,3,29.9,89.7,card,completed
+S-20260113-01076,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01930,2026-01-13,Tandkräm,Personal Care,1,26.91,26.91,cash,completed
+S-20260113-01511,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,refunded
+S-20260113-01304,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-01693,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00501,2026-01-13,Toalettpapper 8-pack,Household,1,53.91,53.91,card,completed
+S-20260113-01834,2026-01-13,Te 20-pack,Beverages,4,34.9,139.6,card,completed
+S-20260113-00180,2026-01-13,Tonfisk burk,Pantry,2,24.9,49.8,card,completed
+S-20260113-01092,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-01825,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-01147,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00941,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,swish,completed
+S-20260113-01484,2026-01-13,Mineralvatten 0.5L,Beverages,1,13.41,13.41,card,completed
+S-20260113-01682,13/01/2026,Gurka,Produce,3,19.9,59.7,card,done
+S-20260113-00529,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-00347,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-01709,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,cash,completed
+S-20260113-02041,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-01624,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00386,2026-01-13,Ris 1kg,Pantry,1,25.41,25.41,card,completed
+S-20260113-01853,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-01059,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00602,2026-01-13,Frysta ärtor,Frozen,2,22.41,44.82,swish,completed
+S-20260113-01346,2026-01-13,Cigaretter,Tobacco,2,79.0,158.0,cash,completed
+S-20260113-00244,13/01/2026,Pasta 500g,Pantry,4,19.9,79.6,swish,completed
+S-20260113-01008,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00803,2026-01-13,Tvättmedel,Household,1,79.9,79.9,cash,completed
+S-20260113-01113,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01650,13/01/2026,Gurka,Produce,3,19.9,59.7,card,completed
+S-20260113-00313,2026-01-13,Äpplen,Produce,2,34.9,69.8,cash,completed
+S-20260113-00436,13/01/2026,Krossade tomater,Pantry,3,14.9,44.7,card,completed
+S-20260113-01977,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-01001,2026-01-13,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-00309,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00431,13/01/2026,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00661,2026-01-13,Schampo,Personal Care,4,49.9,199.6,swish,cancelled
+S-20260113-00371,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00567,2026-01-13,Glass,Frozen,1,33.91,33.91,card,Complete
+S-20260113-01180,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01630,2026-01-13,Kaffe 500g,Beverages,5,69.9,349.5,card,completed
+S-20260113-00825,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,swish,completed
+S-20260113-00182,13/01/2026,Diskmedel,Household,1,29.9,29.9,swish,completed
+S-20260113-01000,2026-01-13,Chips 275g,Snacks,2,25.41,50.82,card,completed
+S-20260113-00622,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-01343,13/01/2026,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01240,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-01023,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,swish,completed
+S-20260113-00814,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-01833,13/01/2026,Smör 500g,Dairy,3,49.9,149.7,card,completed
+S-20260113-01916,2026-01-13,Godis påse,Snacks,5,19.9,99.5,card,completed
+S-20260113-00988,13/01/2026,Pasta 500g,Pantry,1,19.9,,card,completed
+S-20260113-01119,2026-01-13,Krossade tomater,Pantry,2,15.65,31.3,cash,completed
+S-20260113-00297,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,swish,completed
+S-20260113-00967,2026-01-13,Diskmedel,Household,2,29.9,59.8,cash,completed
+S-20260113-00462,2026-01-13,Mineralvatten 0.5L,Beverages,1,15.65,15.65,card,cancelled
+S-20260113-01354,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01224,13/01/2026,Gurka,Produce,2,19.9,39.8,swish,completed
+S-20260113-00378,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-00799,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01337,2026-01-13,Tonfisk burk,Pantry,2,24.9,49.8,card,completed
+S-20260113-00106,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-00127,2026-01-13,Tomater,Produce,2,39.9,79.8,swish,completed
+S-20260113-00966,2026-01-13,Bananer,Produce,3,25.41,76.23,card,completed
+S-20260113-01913,13/01/2026,Gurka,Produce,2,19.9,39.8,card,completed
+S-20260113-01178,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,swish,completed
+S-20260113-01068,2026-01-13,Toalettpapper 8-pack,Household,4,59.9,239.6,card,completed
+S-20260113-00356,2026-01-13,Tonfisk burk,pantry,2,24.9,49.8,card,cancelled
+S-20260113-01874,13/01/2026,Tvättmedel,Household,3,79.9,239.7,card,completed
+S-20260113-00683,2026-01-13,Kaffe 500g,Beverages,4,66.41,265.64,card,completed
+S-20260113-01755,13/01/2026,Godis påse,Snacks,3,19.9,59.7,card,completed
+S-20260113-00870,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,swish,completed
+S-20260113-01549,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00210,2026-01-13,Gurka,Produce,4,19.9,79.6,card,completed
+S-20260113-00949,13/01/2026,Ägg 12-pack,Dairy,2,39.9,79.8,card,completed
+S-20260113-00141,2026-01-13,Glass,Frozen,3,39.9,119.7,swish,completed
+S-20260113-01821,13/01/2026,Chokladkaka,Snacks,2,24.9,49.8,card,completed
+S-20260113-01396,2026-01-13,Tandkräm,Personal Care,2,26.91,53.82,swish,completed
+S-20260113-01806,2026-01-13,Tvättmedel,Household,2,79.9,159.8,card,completed
+S-20260113-01636,2026-01-13,Mjölk 1L,Dairy,3,18.9,56.7,card,completed
+S-20260113-01302,2026-01-13,Gurka,Produce,1,19.9,19.9,swish,done
+S-20260113-00910,2026-01-13,Krossade tomater,Pantry,2,13.41,26.82,card,Complete
+S-20260113-01466,13/01/2026,Chips 275g,Snacks,3,29.9,89.7,card,completed
+S-20260113-00712,2026-01-13,Bananer,Produce,3,29.9,89.7,card,completed
+S-20260113-01317,2026-01-13,Äpplen,Produce,1,33.15,33.15,card,completed
+S-20260113-01626,13/01/2026,Läsk 1.5L,Beverages,1,22.41,22.41,card,completed
+S-20260113-01747,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00916,13/01/2026,Smör 500g,Dairy,2,49.9,99.8,card,completed
+S-20260113-00931,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,cash,completed
+S-20260113-00011,13/01/2026,Pasta 500g,Pantry,3,19.9,59.7,card,completed
+S-20260113-01762,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01171,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,card,completed
+S-20260113-00283,13/01/2026,Godis påse,Snacks,1,21.89,21.89,cash,done
+S-20260113-00811,2026-01-13,Cigaretter,tobacco,1,79.0,79.0,card,refunded
+S-20260113-01138,13/01/2026,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00292,13/01/2026,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00755,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00627,2026-01-13,Tomater,Produce,1,39.9,39.9,swish,completed
+S-20260113-02037,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01269,2026-01-13,Bananer,Produce,1,29.9,29.9,cash,completed
+S-20260113-00130,13/01/2026,Läsk 1.5L,Beverages,1,26.14,26.14,card,completed
+S-20260113-01223,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00844,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,swish,completed
+S-20260113-00324,2026-01-13,Krossade tomater,Pantry,1,13.41,13.41,card,completed
+S-20260113-01704,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-00904,13/01/2026,Ägg 12-pack,Dairy,5,39.9,199.5,cash,completed
+S-20260113-01813,2026-01-13,Kaffe 500g,Beverages,1,66.41,66.41,card,completed
+S-20260113-01941,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,card,completed
+S-20260113-01273,13/01/2026,Godis påse,Snacks,3,19.9,59.7,card,completed
+S-20260113-00937,2026-01-13,Gurka,Produce,5,19.9,99.5,card,completed
+S-20260113-00696,2026-01-13,Toalettpapper 8-pack,Household,3,59.9,179.7,card,completed
+S-20260113-00216,2026-01-13,Ägg 12-pack,Dairy,3,39.9,119.7,card,completed
+S-20260113-01562,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-01939,2026-01-13,Diskmedel,Household,2,28.4,56.8,card,completed
+S-20260113-01615,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00159,2026-01-13,Smör 500g,Dairy,3,49.9,149.7,card,completed
+S-20260113-02026,13/01/2026,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-01104,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-01056,2026-01-13,Glass,Frozen,4,39.9,159.6,card,completed
+S-20260113-01603,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00842,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,swish,completed
+S-20260113-00635,13/01/2026,Chips 275g,Snacks,3,29.9,89.7,cash,completed
+S-20260113-00517,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01487,2026-01-13,Pasta 500g,Pantry,1,19.9,,card,completed
+S-20260113-01582,2026-01-13,Chips 275g,Snacks,3,29.9,89.7,card,completed
+S-20260113-00598,13/01/2026,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-00196,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-02038,13/01/2026,Pasta 500g,Pantry,4,19.9,79.6,card,completed
+S-20260113-01319,2026-01-13,Bröd Limpa,Bakery,5,29.9,149.5,card,completed
+S-20260113-00411,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00097,2026-01-13,Tandkräm,Personal Care,2,29.9,59.8,card,completed
+S-20260113-00441,2026-01-13,Läsk 1.5L,Beverages,1,23.65,23.65,card,completed
+S-20260113-01256,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-00157,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00420,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,card,Complete
+S-20260113-00923,2026-01-13,Glass,Frozen,1,37.9,37.9,card,done
+S-20260113-01876,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,cash,completed
+S-20260113-00478,13/01/2026,Kaffe 500g,Beverages,1,59.42,59.42,swish,completed
+S-20260113-01932,13/01/2026,Ris 1kg,Pantry,2,29.9,59.8,card,completed
+S-20260113-00669,2026-01-13,Godis påse,Snacks,4,19.9,79.6,cash,cancelled
+S-20260113-01084,2026-01-13,Smör 500g,Dairy,2,49.9,99.8,cash,completed
+S-20260113-01949,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01351,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-00448,13/01/2026,Glass,Frozen,1,35.91,35.91,swish,completed
+S-20260113-00554,2026-01-13,Chokladkaka,Snacks,5,24.9,124.5,cash,completed
+S-20260113-00179,13/01/2026,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-00391,13/01/2026,Pasta 500g,Pantry,4,19.9,79.6,swish,completed
+S-20260113-00579,13/01/2026,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-01681,2026-01-13,Tvättmedel,Household,3,79.9,239.7,card,completed
+S-20260113-01774,2026-01-13,Frysta ärtor,frozen,2,24.9,49.8,card,completed
+S-20260113-02047,13/01/2026,Schampo,Personal Care,2,49.9,99.8,card,completed
+S-20260113-01053,13/01/2026,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-01707,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,cash,completed
+S-20260113-00964,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00821,13/01/2026,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01899,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01044,13/01/2026,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01419,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00665,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00143,13/01/2026,Bananer,Produce,3,29.9,89.7,card,completed
+S-20260113-01890,2026-01-13,Diskmedel,Household,1,29.9,29.9,swish,completed
+S-20260113-01488,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00865,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-00422,2026-01-13,Tandkräm,Personal Care,3,29.9,89.7,card,completed
+S-20260113-00637,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01465,2026-01-13,Tomater,Produce,3,37.9,113.7,card,refunded
+S-20260113-00800,2026-01-13,Smör 500g,Dairy,1,42.41,42.41,card,completed
+S-20260113-01112,13/01/2026,Pasta 500g,Pantry,1,16.91,16.91,card,completed
+S-20260113-00616,13/01/2026,Mjölk 1L,Dairy,1,16.06,16.06,cash,completed
+S-20260113-00295,2026-01-13,Pasta 500g,Pantry,1,21.89,21.89,card,completed
+S-20260113-00989,2026-01-13,Bananer,Produce,1,28.4,28.4,card,completed
+S-20260113-00998,13/01/2026,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-01981,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00089,13/01/2026,Chokladkaka,Snacks,3,24.9,74.7,swish,completed
+S-20260113-00042,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01875,13/01/2026,Bananer,Produce,1,28.4,28.4,card,completed
+S-20260113-02014,13/01/2026,Bröd Limpa,bakery,2,29.9,59.8,card,completed
+S-20260113-00132,2026-01-13,Gurka,Produce,1,19.9,19.9,swish,completed
+S-20260113-01856,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-00410,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01115,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,cash,refunded
+S-20260113-01931,13/01/2026,Pasta 500g,Pantry,3,19.9,59.7,swish,completed
+S-20260113-01643,2026-01-13,Te 20-pack,Beverages,2,34.9,69.8,swish,completed
+S-20260113-01560,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00165,2026-01-13,Ägg 12-pack,Dairy,5,39.9,199.5,card,completed
+S-20260113-00725,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00291,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01190,2026-01-13,Bröd Limpa,Bakery,1,26.91,26.91,card,completed
+S-20260113-01597,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,swish,completed
+S-20260113-01975,2026-01-13,Tonfisk burk,Pantry,1,23.65,23.65,swish,completed
+S-20260113-01951,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,swish,completed
+S-20260113-01415,2026-01-13,Bananer,Produce,1,29.9,29.9,swish,completed
+S-20260113-00779,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,swish,completed
+S-20260113-00840,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-00349,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-02025,13/01/2026,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00572,2026-01-13,Te 20-pack,Beverages,4,34.9,139.6,card,completed
+S-20260113-00918,13/01/2026,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-01817,13/01/2026,Ris 1kg,Pantry,5,29.9,149.5,swish,completed
+S-20260113-01965,2026-01-13,Smör 500g,Dairy,1,42.41,42.41,card,completed
+S-20260113-02024,2026-01-13,Schampo,Personal Care,1,49.9,49.9,swish,completed
+S-20260113-01653,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00995,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-01369,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01920,2026-01-13,Chokladkaka,Snacks,2,24.9,49.8,card,completed
+S-20260113-00137,2026-01-13,Godis påse,Snacks,1,17.91,17.91,card,completed
+S-20260113-00459,2026-01-13,Tomater,Produce,3,39.9,119.7,swish,completed
+S-20260113-00376,13/01/2026,Tandkräm,Personal Care,3,28.4,85.2,card,completed
+S-20260113-01394,2026-01-13,Chokladkaka,Snacks,4,24.9,99.6,card,completed
+S-20260113-00334,13/01/2026,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-01358,2026-01-13,Glass,Frozen,1,35.91,35.91,card,completed
+S-20260113-01207,2026-01-13,Tandkräm,Personal Care,3,29.9,89.7,card,completed
+S-20260113-02003,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01830,2026-01-13,Schampo,Personal Care,2,49.9,99.8,card,completed
+S-20260113-01517,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-00817,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-01162,13/01/2026,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-00606,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-01933,13/01/2026,Bröd Limpa,Bakery,2,29.9,59.8,card,refunded
+S-20260113-01725,2026-01-13,Smör 500g,Dairy,2,49.9,99.8,swish,completed
+S-20260113-00550,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01062,2026-01-13,Tvättmedel,Household,3,79.9,239.7,cash,completed
+S-20260113-00911,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-01988,13/01/2026,Pasta 500g,Pantry,2,19.9,39.8,card,completed
+S-20260113-02010,2026-01-13,Smör 500g,Dairy,1,42.41,42.41,card,completed
+S-20260113-01311,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,swish,completed
+S-20260113-00329,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-01133,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,swish,completed
+S-20260113-00319,13/01/2026,Läsk 1.5L,Beverages,1,23.65,23.65,swish,completed
+S-20260113-02027,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00013,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-02007,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-00172,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00261,13/01/2026,Gurka,Produce,2,19.9,39.8,card,cancelled
+S-20260113-01262,2026-01-13,Schampo,Personal Care,2,49.9,99.8,card,completed
+S-20260113-01468,13/01/2026,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00902,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00259,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00845,2026-01-13,Godis påse,Snacks,5,19.9,99.5,card,completed
+S-20260113-00139,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-00320,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-01588,2026-01-13,Ägg 12-pack,dairy,1,39.9,39.9,card,completed
+S-20260113-01285,2026-01-13,Smör 500g,Dairy,1,47.4,47.4,swish,completed
+S-20260113-01274,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00559,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00140,13/01/2026,Cigaretter,Tobacco,1,86.9,86.9,swish,completed
+S-20260113-01804,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-00532,13/01/2026,Äpplen,Produce,3,34.9,104.7,card,completed
+S-20260113-00225,13/01/2026,Chips 275g,Snacks,2,29.9,59.8,card,completed
+S-20260113-00724,2026-01-13,Chips 275g,Snacks,4,31.39,125.56,swish,Complete
+S-20260113-01785,2026-01-13,Godis påse,Snacks,1,17.91,17.91,card,completed
+S-20260113-00326,2026-01-13,Smör 500g,Dairy,2,49.9,99.8,card,completed
+S-20260113-01491,13/01/2026,Glass,Frozen,1,39.9,39.9,swish,completed
+S-20260113-00715,2026-01-13,Tandkräm,Personal Care,2,29.9,59.8,card,completed
+S-20260113-00847,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00194,2026-01-13,Äpplen,Produce,3,34.9,104.7,card,completed
+S-20260113-00574,2026-01-13,Ris 1kg,Pantry,1,28.4,28.4,card,completed
+S-20260113-00947,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00504,2026-01-13,Cigaretter,Tobacco,2,79.0,158.0,card,completed
+S-20260113-01462,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-01211,2026-01-13,Ägg 12-pack,Dairy,3,39.9,119.7,card,completed
+S-20260113-01858,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00004,2026-01-13,Ris 1kg,Pantry,1,31.39,31.39,card,completed
+S-20260113-01197,13/01/2026,Bröd Limpa,Bakery,2,28.4,56.8,card,done
+S-20260113-00468,2026-01-13,Ris 1kg,pantry,1,29.9,29.9,card,completed
+S-20260113-00006,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01429,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00548,2026-01-13,Toalettpapper 8-pack,Household,1,50.91,50.91,card,completed
+S-20260113-00229,2026-01-13,Diskmedel,Household,1,26.91,26.91,card,completed
+S-20260113-01064,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00543,13/01/2026,Tandkräm,Personal Care,3,28.4,85.2,card,completed
+S-20260113-00243,13/01/2026,Frysta ärtor,frozen,1,24.9,24.9,cash,completed
+S-20260113-00899,13/01/2026,Mineralvatten 0.5L,Beverages,3,14.9,44.7,card,completed
+S-20260113-01950,13/01/2026,Frysta ärtor,Frozen,4,24.9,99.6,card,Complete
+S-20260113-01553,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-01132,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,swish,completed
+S-20260113-00843,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01477,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01300,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,swish,cancelled
+S-20260113-00277,2026-01-13,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-00662,13/01/2026,Ris 1kg,Pantry,2,29.9,59.8,swish,completed
+S-20260113-01259,2026-01-13,Mineralvatten 0.5L,Beverages,3,14.9,44.7,swish,completed
+S-20260113-00315,2026-01-13,Schampo,Personal Care,5,49.9,249.5,card,completed
+S-20260113-00692,2026-01-13,Ris 1kg,Pantry,4,29.9,119.6,card,completed
+S-20260113-01565,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00425,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00595,2026-01-13,Äpplen,Produce,1,33.15,33.15,card,completed
+S-20260113-02044,2026-01-13,Godis påse,Snacks,1,17.91,17.91,card,completed
+S-20260113-00623,2026-01-13,Tvättmedel,Household,2,79.9,159.8,card,done
+S-20260113-01851,2026-01-13,Bröd Limpa,Bakery,2,26.91,53.82,cash,completed
+S-20260113-01088,2026-01-13,Tonfisk burk,Pantry,1,24.9,,cash,completed
+S-20260113-00228,13/01/2026,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01165,2026-01-13,Tvättmedel,Household,1,79.9,79.9,cash,completed
+S-20260113-01835,2026-01-13,Läsk 1.5L,Beverages,1,27.39,27.39,card,completed
+S-20260113-01145,2026-01-13,Äpplen,Produce,2,34.9,69.8,swish,completed
+S-20260113-00067,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,cash,completed
+S-20260113-00025,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-00145,2026-01-13,Glass,Frozen,1,39.9,39.9,card,done
+S-20260113-00537,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00812,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01832,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-00086,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,card,completed
+S-20260113-01384,13/01/2026,Schampo,Personal Care,4,49.9,199.6,card,completed
+S-20260113-01231,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,swish,completed
+S-20260113-01584,13/01/2026,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01878,13/01/2026,Äpplen,Produce,2,34.9,69.8,cash,completed
+S-20260113-01892,2026-01-13,Schampo,Personal Care,2,54.89,109.78,card,completed
+S-20260113-01795,2026-01-13,Läsk 1.5L,Beverages,2,24.9,49.8,cash,completed
+S-20260113-01360,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,swish,completed
+S-20260113-00363,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01674,2026-01-13,Godis påse,Snacks,2,19.9,39.8,card,completed
+S-20260113-01605,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01027,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,swish,completed
+S-20260113-01031,13/01/2026,Kaffe 500g,Beverages,1,62.91,62.91,card,completed
+S-20260113-01266,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01408,13/01/2026,Schampo,Personal Care,2,49.9,99.8,swish,completed
+S-20260113-01118,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00666,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,refunded
+S-20260113-00365,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00078,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,cancelled
+S-20260113-00028,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,cash,completed
+S-20260113-01495,2026-01-13,Pasta 500g,Pantry,3,19.9,59.7,card,completed
+S-20260113-00526,2026-01-13,Bröd Limpa,Bakery,1,32.89,32.89,cash,completed
+S-20260113-01909,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00056,2026-01-13,Ris 1kg,Pantry,5,29.9,149.5,card,done
+S-20260113-00639,2026-01-13,Godis påse,Snacks,3,19.9,59.7,cash,completed
+S-20260113-00303,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00719,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,cash,completed
+S-20260113-00625,2026-01-13,Ris 1kg,Pantry,3,29.9,89.7,cash,completed
+S-20260113-00008,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,swish,completed
+S-20260113-00804,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01050,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,swish,completed
+S-20260113-00337,2026-01-13,Tvättmedel,household,1,79.9,79.9,card,completed
+S-20260113-00048,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-01541,2026-01-13,Pasta 500g,Pantry,1,16.91,16.91,card,completed
+S-20260113-00107,2026-01-13,Pasta 500g,pantry,1,19.9,19.9,card,completed
+S-20260113-00350,13/01/2026,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01080,13/01/2026,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-00239,2026-01-13,Diskmedel,Household,3,29.9,89.7,swish,completed
+S-20260113-00214,2026-01-13,Te 20-pack,Beverages,2,29.66,59.32,card,completed
+S-20260113-01303,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01186,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00794,13/01/2026,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-01097,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,card,completed
+S-20260113-01227,13/01/2026,Godis påse,Snacks,1,19.9,19.9,card,refunded
+S-20260113-01170,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,swish,done
+S-20260113-01855,2026-01-13,Te 20-pack,Beverages,5,33.15,165.75,card,completed
+S-20260113-01738,2026-01-13,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-00524,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,card,Complete
+S-20260113-00233,2026-01-13,Smör 500g,Dairy,4,49.9,199.6,card,refunded
+S-20260113-00645,2026-01-13,Bananer,Produce,3,29.9,89.7,card,completed
+S-20260113-01569,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-00534,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01570,13/01/2026,Ägg 12-pack,Dairy,4,39.9,,card,completed
+S-20260113-00604,2026-01-13,Bananer,Produce,1,29.9,29.9,swish,completed
+S-20260113-01827,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-01075,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,cash,completed
+S-20260113-01356,2026-01-13,Cigaretter,Tobacco,1,86.9,86.9,card,completed
+S-20260113-00061,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-01314,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,cash,completed
+S-20260113-00093,2026-01-13,Mjölk 1L,Dairy,2,17.95,35.9,cash,completed
+S-20260113-00667,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,swish,refunded
+S-20260113-00281,13/01/2026,Cigaretter,Tobacco,1,82.95,82.95,cash,completed
+S-20260113-01161,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00360,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,swish,completed
+S-20260113-01176,13/01/2026,Mjölk 1L,Dairy,1,18.9,18.9,cash,completed
+S-20260113-01217,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00848,2026-01-13,Glass,Frozen,1,43.89,43.89,cash,completed
+S-20260113-01433,2026-01-13,Smör 500g,Dairy,4,49.9,199.6,swish,completed
+S-20260113-00111,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,swish,done
+S-20260113-00043,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-00126,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-00205,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00053,2026-01-13,Mjölk 1L,Dairy,2,20.79,41.58,card,completed
+S-20260113-00546,2026-01-13,Tomater,produce,1,37.9,37.9,card,completed
+S-20260113-00069,2026-01-13,Chokladkaka,Snacks,1,23.65,23.65,card,completed
+S-20260113-01966,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01609,2026-01-13,Tvättmedel,Household,1,79.9,79.9,swish,completed
+S-20260113-00184,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,swish,completed
+S-20260113-00138,2026-01-13,Diskmedel,Household,3,29.9,89.7,swish,completed
+S-20260113-00900,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,swish,completed
+S-20260113-00797,2026-01-13,Godis påse,Snacks,2,19.9,39.8,card,refunded
+S-20260113-00133,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,cash,completed
+S-20260113-00081,13/01/2026,Pasta 500g,Pantry,2,19.9,39.8,card,completed
+S-20260113-01544,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-01602,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,cash,completed
+S-20260113-00542,2026-01-13,Frysta ärtor,Frozen,3,24.9,74.7,card,completed
+S-20260113-01657,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,swish,refunded
+S-20260113-00984,13/01/2026,Läsk 1.5L,Beverages,1,27.39,27.39,card,completed
+S-20260113-00166,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-00249,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00447,2026-01-13,Chips 275g,snacks,1,29.9,29.9,card,completed
+S-20260113-01648,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-00859,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,card,done
+S-20260113-01260,2026-01-13,Mineralvatten 0.5L,Beverages,3,14.9,44.7,swish,completed
+S-20260113-00098,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,Complete
+S-20260113-00806,13/01/2026,Bröd Limpa,Bakery,5,29.9,149.5,card,completed
+S-20260113-00738,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-01306,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00103,2026-01-13,Te 20-pack,Beverages,3,33.15,99.45,swish,completed
+S-20260113-00435,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,swish,completed
+S-20260113-00075,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01868,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,cash,completed
+S-20260113-01250,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-00919,13/01/2026,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01779,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01737,2026-01-13,Gurka,Produce,3,17.91,53.73,card,completed
+S-20260113-01721,13/01/2026,Läsk 1.5L,Beverages,5,24.9,124.5,swish,completed
+S-20260113-00763,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,refunded
+S-20260113-00990,2026-01-13,Godis påse,Snacks,2,19.9,39.8,card,completed
+S-20260113-00389,2026-01-13,Ägg 12-pack,Dairy,3,39.9,119.7,swish,completed
+S-20260113-00236,2026-01-13,Tomater,Produce,2,39.9,79.8,cash,completed
+S-20260113-01568,2026-01-13,Bröd Limpa,Bakery,4,29.9,119.6,card,completed
+S-20260113-00268,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-01235,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-00118,2026-01-13,Gurka,produce,1,19.9,19.9,card,completed
+S-20260113-01669,2026-01-13,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-00674,2026-01-13,Ägg 12-pack,Dairy,2,41.9,83.8,cash,completed
+S-20260113-00250,2026-01-13,Krossade tomater,Pantry,2,15.65,31.3,card,completed
+S-20260113-01512,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00209,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,Complete
+S-20260113-00095,2026-01-13,Gurka,Produce,3,19.9,59.7,swish,completed
+S-20260113-00034,2026-01-13,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-01524,13/01/2026,Tonfisk burk,Pantry,2,24.9,49.8,card,done
+S-20260113-01788,13/01/2026,Smör 500g,Dairy,2,49.9,99.8,card,completed
+S-20260113-00449,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00717,2026-01-13,Chokladkaka,Snacks,2,24.9,49.8,card,completed
+S-20260113-01315,2026-01-13,Schampo,Personal Care,1,47.4,47.4,cash,completed
+S-20260113-01579,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,swish,completed
+S-20260113-00001,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-01430,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01102,13/01/2026,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-01109,13/01/2026,Bröd Limpa,Bakery,1,31.39,31.39,card,completed
+S-20260113-01275,13/01/2026,Mjölk 1L,Dairy,1,17.01,17.01,cash,completed
+S-20260113-00083,13/01/2026,Tvättmedel,Household,1,67.92,67.92,card,completed
+S-20260113-01339,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00677,13/01/2026,Smör 500g,Dairy,5,49.9,249.5,card,completed
+S-20260113-01510,2026-01-13,Gurka,Produce,3,19.9,59.7,cash,completed
+S-20260113-01047,2026-01-13,Bröd Limpa,Bakery,4,29.9,119.6,card,completed
+S-20260113-00771,2026-01-13,Läsk 1.5L,Beverages,2,22.41,44.82,swish,completed
+S-20260113-01264,2026-01-13,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-01331,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01642,13/01/2026,Äpplen,produce,2,34.9,69.8,card,completed
+S-20260113-01550,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,done
+S-20260113-00405,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01985,2026-01-13,Bröd Limpa,Bakery,2,29.9,,card,completed
+S-20260113-01765,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-01392,13/01/2026,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00105,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,swish,completed
+S-20260113-00689,13/01/2026,Pasta 500g,Pantry,1,17.91,17.91,card,completed
+S-20260113-01357,13/01/2026,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-00827,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,cash,completed
+S-20260113-01241,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,swish,completed
+S-20260113-00063,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-00853,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,cash,completed
+S-20260113-01406,2026-01-13,Glass,frozen,1,39.9,39.9,card,completed
+S-20260113-00224,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00146,2026-01-13,Diskmedel,Household,3,29.9,89.7,card,completed
+S-20260113-01089,2026-01-13,Mineralvatten 0.5L,Beverages,3,14.9,44.7,card,completed
+S-20260113-00374,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,cash,completed
+S-20260113-02002,13/01/2026,Schampo,Personal Care,3,49.9,149.7,card,completed
+S-20260113-01143,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-01901,2026-01-13,Te 20-pack,Beverages,3,34.9,104.7,swish,completed
+S-20260113-01556,13/01/2026,Bananer,produce,1,29.9,29.9,card,completed
+S-20260113-01750,2026-01-13,Bröd Limpa,bakery,1,29.9,29.9,swish,completed
+S-20260113-01321,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00010,13/01/2026,Äpplen,Produce,3,34.9,104.7,card,completed
+S-20260113-00450,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00709,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-00256,2026-01-13,Bananer,Produce,1,29.9,29.9,card,refunded
+S-20260113-00883,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-00390,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,cash,completed
+S-20260113-00909,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-00925,2026-01-13,Mineralvatten 0.5L,Beverages,4,14.9,59.6,card,completed
+S-20260113-01771,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,Complete
+S-20260113-01281,13/01/2026,Gurka,Produce,1,16.91,16.91,card,completed
+S-20260113-00461,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,card,completed
+S-20260113-01320,2026-01-13,Tandkräm,Personal Care,3,29.9,89.7,cash,completed
+S-20260113-01768,2026-01-13,Smör 500g,Dairy,3,47.4,142.2,card,completed
+S-20260113-01169,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-00959,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-00502,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00740,2026-01-13,Glass,frozen,3,39.9,119.7,swish,completed
+S-20260113-01926,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00869,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00732,2026-01-13,Tomater,Produce,1,41.9,41.9,card,completed
+S-20260113-00540,2026-01-13,Läsk 1.5L,Beverages,1,22.41,,card,completed
+S-20260113-01202,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00698,13/01/2026,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01449,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,swish,completed
+S-20260113-01432,2026-01-13,Schampo,Personal Care,2,49.9,99.8,swish,completed
+S-20260113-01146,13/01/2026,Tomater,Produce,2,41.9,83.8,swish,completed
+S-20260113-01032,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00373,2026-01-13,Frysta ärtor,Frozen,2,22.41,44.82,card,completed
+S-20260113-00668,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,swish,completed
+S-20260113-01587,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,cash,completed
+S-20260113-00358,2026-01-13,Diskmedel,Household,4,28.4,113.6,card,completed
+S-20260113-00968,2026-01-13,Tandkräm,Personal Care,3,29.9,89.7,card,completed
+S-20260113-00784,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-00736,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,Complete
+S-20260113-01036,13/01/2026,Bananer,Produce,2,29.9,59.8,swish,completed
+S-20260113-00971,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-01993,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-01548,13/01/2026,Chokladkaka,Snacks,3,24.9,74.7,swish,completed
+S-20260113-01836,13/01/2026,Äpplen,Produce,2,34.9,69.8,swish,completed
+S-20260113-02042,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-01403,2026-01-13,Toalettpapper 8-pack,household,3,62.9,188.7,swish,completed
+S-20260113-01552,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01705,2026-01-13,Mjölk 1L,dairy,1,16.06,16.06,swish,completed
+S-20260113-01253,2026-01-13,Chips 275g,Snacks,3,29.9,,card,completed
+S-20260113-01761,2026-01-13,Tomater,Produce,1,39.9,39.9,swish,completed
+S-20260113-01783,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01237,2026-01-13,Pasta 500g,Pantry,3,19.9,59.7,card,completed
+S-20260113-00886,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,cash,completed
+S-20260113-00080,2026-01-13,Diskmedel,Household,3,29.9,89.7,card,completed
+S-20260113-01173,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00815,13/01/2026,Smör 500g,Dairy,1,49.9,49.9,cash,completed
+S-20260113-01336,13/01/2026,Chips 275g,Snacks,1,29.9,29.9,swish,completed
+S-20260113-00672,2026-01-13,Te 20-pack,Beverages,2,31.41,62.82,card,completed
+S-20260113-01593,13/01/2026,Pasta 500g,Pantry,1,18.9,18.9,card,completed
+S-20260113-00058,2026-01-13,Ris 1kg,Pantry,5,29.9,149.5,swish,completed
+S-20260113-00134,13/01/2026,Mjölk 1L,Dairy,1,18.9,18.9,swish,completed
+S-20260113-01141,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00934,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,card,completed
+S-20260113-01969,2026-01-13,Chokladkaka,snacks,2,24.9,49.8,swish,completed
+S-20260113-00824,13/01/2026,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-01215,13/01/2026,Toalettpapper 8-pack,Household,2,59.9,119.8,cash,completed
+S-20260113-00505,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-01845,2026-01-13,Bananer,Produce,1,29.9,29.9,swish,completed
+S-20260113-00348,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00387,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01025,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00895,2026-01-13,Bröd Limpa,Bakery,3,26.91,80.73,swish,completed
+S-20260113-00829,2026-01-13,Toalettpapper 8-pack,Household,3,59.9,179.7,card,completed
+S-20260113-01971,13/01/2026,Läsk 1.5L,Beverages,1,23.65,23.65,card,completed
+S-20260113-00476,2026-01-13,Ägg 12-pack,Dairy,2,39.9,79.8,card,refunded
+S-20260113-01531,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,swish,completed
+S-20260113-01506,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-01453,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,swish,completed
+S-20260113-00653,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-00173,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01150,13/01/2026,Mineralvatten 0.5L,Beverages,3,13.41,40.23,card,completed
+S-20260113-00039,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00714,2026-01-13,Läsk 1.5L,Beverages,2,24.9,49.8,card,completed
+S-20260113-00091,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-02017,2026-01-13,Godis påse,Snacks,1,19.9,19.9,swish,completed
+S-20260113-01206,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,done
+S-20260113-00876,2026-01-13,Ägg 12-pack,Dairy,4,39.9,159.6,card,completed
+S-20260113-01404,13/01/2026,Diskmedel,Household,2,29.9,59.8,card,completed
+S-20260113-01968,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,cancelled
+S-20260113-01094,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-01156,13/01/2026,Chips 275g,Snacks,2,29.9,59.8,card,completed
+S-20260113-01325,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01533,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-02039,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00500,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00339,2026-01-13,Tomater,Produce,1,35.91,35.91,swish,completed
+S-20260113-01189,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,card,completed
+S-20260113-00029,13/01/2026,Tomater,Produce,2,39.9,79.8,card,completed
+S-20260113-01218,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01377,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-01895,2026-01-13,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-00946,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00170,2026-01-13,Smör 500g,Dairy,2,49.9,99.8,card,completed
+S-20260113-01461,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,swish,completed
+S-20260113-01198,13/01/2026,Frysta ärtor,Frozen,1,24.9,24.9,swish,completed
+S-20260113-01254,2026-01-13,Smör 500g,dairy,2,47.4,94.8,card,completed
+S-20260113-01455,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,cash,completed
+S-20260113-00913,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,swish,completed
+S-20260113-00492,2026-01-13,Gurka,produce,1,19.9,19.9,card,completed
+S-20260113-00954,2026-01-13,Ägg 12-pack,Dairy,1,33.91,33.91,card,completed
+S-20260113-01098,2026-01-13,Schampo,Personal Care,3,49.9,149.7,card,completed
+S-20260113-01033,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00588,2026-01-13,Glass,Frozen,1,39.9,39.9,swish,completed
+S-20260113-00751,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00658,13/01/2026,Pasta 500g,Pantry,2,17.91,35.82,card,completed
+S-20260113-00235,2026-01-13,Diskmedel,Household,2,29.9,59.8,card,completed
+S-20260113-00733,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,cash,completed
+S-20260113-02058,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01695,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01157,2026-01-13,Te 20-pack,Beverages,3,33.15,99.45,card,completed
+S-20260113-01753,2026-01-13,Diskmedel,Household,2,28.4,56.8,card,completed
+S-20260113-02056,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-01690,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,swish,completed
+S-20260113-00935,2026-01-13,Gurka,Produce,2,19.9,39.8,swish,completed
+S-20260113-01210,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-01066,13/01/2026,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-00109,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,cash,refunded
+S-20260113-01692,2026-01-13,Tomater,Produce,2,39.9,,card,completed
+S-20260113-00569,2026-01-13,Tonfisk burk,Pantry,1,23.65,23.65,card,completed
+S-20260113-01168,2026-01-13,Te 20-pack,Beverages,5,34.9,174.5,cash,completed
+S-20260113-01175,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00891,2026-01-13,Chips 275g,Snacks,1,25.41,25.41,card,completed
+S-20260113-00948,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01049,13/01/2026,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-01405,2026-01-13,Frysta ärtor,Frozen,1,23.65,23.65,card,completed
+S-20260113-01426,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-01659,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00885,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-01739,13/01/2026,Bananer,Produce,1,28.4,28.4,card,completed
+S-20260113-02004,2026-01-13,Krossade tomater,Pantry,4,14.9,59.6,card,completed
+S-20260113-00851,13/01/2026,Chokladkaka,Snacks,1,26.14,26.14,card,completed
+S-20260113-00735,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00718,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00455,13/01/2026,Chokladkaka,Snacks,1,22.41,22.41,card,completed
+S-20260113-00265,2026-01-13,Glass,Frozen,1,37.9,37.9,card,completed
+S-20260113-00076,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-01867,13/01/2026,Gurka,Produce,3,19.9,59.7,card,completed
+S-20260113-00445,2026-01-13,Tonfisk burk,Pantry,2,21.16,42.32,swish,completed
+S-20260113-00396,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00177,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01043,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-01805,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,cash,completed
+S-20260113-01458,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,cash,completed
+S-20260113-01572,2026-01-13,Äpplen,Produce,1,34.9,34.9,cash,completed
+S-20260113-01436,2026-01-13,Tonfisk burk,Pantry,3,22.41,67.23,card,completed
+S-20260113-00596,2026-01-13,Schampo,Personal Care,4,49.9,199.6,cash,completed
+S-20260113-00062,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01297,2026-01-13,Schampo,Personal Care,1,49.9,49.9,swish,completed
+S-20260113-00873,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,swish,completed
+S-20260113-01551,13/01/2026,Ägg 12-pack,Dairy,2,39.9,79.8,card,completed
+S-20260113-01994,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-00279,13/01/2026,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-01393,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00037,2026-01-13,Äpplen,Produce,3,36.65,109.95,card,completed
+S-20260113-01577,2026-01-13,Smör 500g,Dairy,4,44.91,179.64,card,completed
+S-20260113-00663,2026-01-13,Gurka,Produce,2,16.91,33.82,card,completed
+S-20260113-01880,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-01503,2026-01-13,Tvättmedel,Household,3,87.89,263.67,card,completed
+S-20260113-00978,13/01/2026,Te 20-pack,Beverages,2,38.39,76.78,card,completed
+S-20260113-01663,13/01/2026,Tonfisk burk,Pantry,4,22.41,89.64,card,completed
+S-20260113-00739,2026-01-13,Frysta ärtor,Frozen,3,24.9,74.7,card,completed
+S-20260113-00192,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,swish,completed
+S-20260113-00920,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00457,2026-01-13,Tomater,Produce,2,33.91,67.82,card,completed
+S-20260113-01418,2026-01-13,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-00676,2026-01-13,Tomater,Produce,2,39.9,79.8,card,completed
+S-20260113-00761,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,card,completed
+S-20260113-01957,2026-01-13,Tomater,Produce,1,39.9,39.9,swish,completed
+S-20260113-01665,13/01/2026,Läsk 1.5L,Beverages,5,24.9,124.5,swish,completed
+S-20260113-00729,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01400,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,swish,completed
+S-20260113-00413,13/01/2026,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-01099,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-00826,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,swish,completed
+S-20260113-01558,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00617,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-00115,13/01/2026,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-00418,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01989,2026-01-13,Gurka,Produce,1,17.91,17.91,card,completed
+S-20260113-00970,13/01/2026,Pasta 500g,Pantry,2,20.89,41.78,card,completed
+S-20260113-00605,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,swish,completed
+S-20260113-01999,2026-01-13,Tomater,Produce,1,39.9,,swish,completed
+S-20260113-00090,13/01/2026,Kaffe 500g,Beverages,1,66.41,66.41,card,completed
+S-20260113-00849,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01581,13/01/2026,Tvättmedel,Household,2,79.9,159.8,card,completed
+S-20260113-01997,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,cash,completed
+S-20260113-00754,13/01/2026,Ägg 12-pack,Dairy,1,39.9,,card,completed
+S-20260113-00499,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01277,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,cash,completed
+S-20260113-01326,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00012,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,swish,completed
+S-20260113-00397,13/01/2026,Krossade tomater,Pantry,1,12.66,12.66,swish,completed
+S-20260113-00285,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-01067,2026-01-13,Ägg 12-pack,Dairy,3,33.91,101.73,swish,completed
+S-20260113-01192,2026-01-13,Tomater,Produce,1,39.9,39.9,swish,completed
+S-20260113-01441,2026-01-13,Tvättmedel,Household,2,79.9,159.8,swish,completed
+S-20260113-01814,13/01/2026,Läsk 1.5L,Beverages,2,24.9,49.8,card,completed
+S-20260113-01451,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-00691,2026-01-13,Glass,Frozen,1,41.9,41.9,card,completed
+S-20260113-01694,2026-01-13,Bananer,Produce,1,28.4,28.4,swish,completed
+S-20260113-01953,2026-01-13,Chokladkaka,Snacks,3,27.39,82.17,card,completed
+S-20260113-00690,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-00852,13/01/2026,Tomater,Produce,2,39.9,79.8,card,completed
+S-20260113-00160,2026-01-13,Äpplen,Produce,2,34.9,69.8,cash,completed
+S-20260113-00896,2026-01-13,Äpplen,Produce,1,36.65,36.65,card,completed
+S-20260113-01809,13/01/2026,Mineralvatten 0.5L,Beverages,4,14.9,,card,completed
+S-20260113-00258,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,cash,completed
+S-20260113-00336,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,cash,completed
+S-20260113-01958,2026-01-13,Bananer,Produce,2,29.9,59.8,swish,completed
+S-20260113-01040,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00516,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01349,13/01/2026,Schampo,Personal Care,1,49.9,49.9,swish,completed
+S-20260113-01016,2026-01-13,Cigaretter,Tobacco,2,79.0,158.0,card,completed
+S-20260113-00769,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,Complete
+S-20260113-01816,2026-01-13,Toalettpapper 8-pack,Household,1,56.9,56.9,card,completed
+S-20260113-00762,13/01/2026,Te 20-pack,Beverages,3,29.66,88.98,card,completed
+S-20260113-01247,13/01/2026,Pasta 500g,Pantry,2,19.9,39.8,card,completed
+S-20260113-01204,2026-01-13,Ägg 12-pack,Dairy,3,39.9,119.7,swish,done
+S-20260113-01687,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,cash,completed
+S-20260113-01124,2026-01-13,Bananer,Produce,1,29.9,29.9,cash,completed
+S-20260113-00522,2026-01-13,Ägg 12-pack,Dairy,3,39.9,119.7,card,completed
+S-20260113-00023,13/01/2026,Kaffe 500g,Beverages,4,69.9,279.6,swish,completed
+S-20260113-00357,13/01/2026,Ägg 12-pack,Dairy,3,33.91,101.73,card,completed
+S-20260113-01278,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01313,2026-01-13,Kaffe 500g,Beverages,4,69.9,279.6,card,completed
+S-20260113-01964,2026-01-13,Äpplen,Produce,2,29.66,59.32,card,completed
+S-20260113-00341,2026-01-13,Bröd Limpa,Bakery,3,29.9,89.7,card,completed
+S-20260113-00432,13/01/2026,Smör 500g,Dairy,3,49.9,149.7,card,completed
+S-20260113-00474,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,card,completed
+S-20260113-00218,2026-01-13,Äpplen,Produce,2,36.65,73.3,card,completed
+S-20260113-00912,2026-01-13,Tandkräm,Personal Care,3,29.9,89.7,card,completed
+S-20260113-01228,13/01/2026,Läsk 1.5L,Beverages,2,24.9,49.8,card,Complete
+S-20260113-01658,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01012,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,swish,completed
+S-20260113-02030,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00094,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01009,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01071,2026-01-13,Frysta ärtor,Frozen,5,24.9,124.5,card,completed
+S-20260113-01093,13/01/2026,Bananer,Produce,1,29.9,29.9,swish,completed
+S-20260113-01647,2026-01-13,Tvättmedel,Household,2,79.9,159.8,card,completed
+S-20260113-01309,13/01/2026,Läsk 1.5L,Beverages,3,24.9,74.7,cash,completed
+S-20260113-00697,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-01865,2026-01-13,Ägg 12-pack,Dairy,1,33.91,33.91,card,completed
+S-20260113-00997,2026-01-13,Smör 500g,Dairy,2,44.91,89.82,cash,completed
+S-20260113-01459,13/01/2026,Mjölk 1L,Dairy,1,17.01,17.01,card,completed
+S-20260113-00154,2026-01-13,Frysta ärtor,Frozen,1,22.41,22.41,card,completed
+S-20260113-01100,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,swish,completed
+S-20260113-01786,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-01586,2026-01-13,Cigaretter,tobacco,1,79.0,79.0,cash,Complete
+S-20260113-00790,2026-01-13,Bröd Limpa,Bakery,4,29.9,,card,completed
+S-20260113-00581,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,cash,completed
+S-20260113-01471,2026-01-13,Ris 1kg,Pantry,1,28.4,28.4,cash,completed
+S-20260113-00704,2026-01-13,Te 20-pack,Beverages,3,34.9,104.7,card,completed
+S-20260113-01213,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-01296,13/01/2026,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01732,2026-01-13,Gurka,Produce,3,19.9,59.7,swish,completed
+S-20260113-01261,2026-01-13,Chips 275g,Snacks,1,32.89,32.89,card,completed
+S-20260113-00488,13/01/2026,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00560,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-01142,13/01/2026,Äpplen,Produce,1,34.9,34.9,cash,completed
+S-20260113-01120,13/01/2026,Äpplen,Produce,1,34.9,34.9,cash,completed
+S-20260113-00802,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00513,13/01/2026,Godis påse,Snacks,1,18.9,18.9,card,completed
+S-20260113-00634,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-01654,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-01859,2026-01-13,Chips 275g,Snacks,3,29.9,89.7,card,completed
+S-20260113-01607,2026-01-13,Tvättmedel,Household,1,79.9,79.9,swish,completed
+S-20260113-01151,2026-01-13,Bröd Limpa,Bakery,4,29.9,119.6,card,completed
+S-20260113-00791,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,cash,completed
+S-20260113-00117,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,swish,completed
+S-20260113-01498,2026-01-13,Pasta 500g,Pantry,2,21.89,43.78,card,completed
+S-20260113-00741,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,swish,completed
+S-20260113-01879,13/01/2026,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01082,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00831,13/01/2026,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-00120,13/01/2026,Toalettpapper 8-pack,Household,1,59.9,59.9,swish,completed
+S-20260113-00657,13/01/2026,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-01986,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-00636,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-00370,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,card,completed
+S-20260113-00269,13/01/2026,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00656,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-00936,2026-01-13,Gurka,Produce,2,20.89,41.78,card,completed
+S-20260113-00823,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00867,2026-01-13,Tonfisk burk,Pantry,1,21.16,21.16,swish,completed
+S-20260113-00047,13/01/2026,Bananer,produce,1,29.9,29.9,card,completed
+S-20260113-01374,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01776,2026-01-13,Chokladkaka,Snacks,2,24.9,49.8,cash,completed
+S-20260113-00992,2026-01-13,Gurka,Produce,1,18.9,18.9,card,done
+S-20260113-00877,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,swish,completed
+S-20260113-00774,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,card,completed
+S-20260113-01220,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-01127,2026-01-13,Te 20-pack,Beverages,1,38.39,38.39,card,completed
+S-20260113-00005,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,cash,completed
+S-20260113-01004,2026-01-13,Chokladkaka,Snacks,3,24.9,74.7,card,completed
+S-20260113-01792,2026-01-13,Tvättmedel,Household,3,79.9,239.7,card,completed
+S-20260113-00264,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-01631,2026-01-13,Chokladkaka,Snacks,3,24.9,74.7,cash,completed
+S-20260113-01905,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00444,2026-01-13,Mineralvatten 0.5L,Beverages,1,12.66,12.66,card,completed
+S-20260113-01003,13/01/2026,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-01078,13/01/2026,Schampo,Personal Care,1,49.9,49.9,cash,completed
+S-20260113-00838,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-01862,2026-01-13,Chokladkaka,Snacks,1,23.65,23.65,card,completed
+S-20260113-00305,2026-01-13,Tomater,Produce,2,39.9,79.8,swish,completed
+S-20260113-01366,13/01/2026,Tvättmedel,Household,2,79.9,159.8,cash,completed
+S-20260113-01619,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,cash,completed
+S-20260113-00314,2026-01-13,Toalettpapper 8-pack,Household,3,59.9,179.7,card,completed
+S-20260113-00150,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-01149,2026-01-13,Tandkräm,Personal Care,1,28.4,28.4,cash,completed
+S-20260113-01214,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00575,2026-01-13,Mineralvatten 0.5L,Beverages,1,13.41,13.41,card,completed
+S-20260113-00051,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01614,2026-01-13,Tonfisk burk,Pantry,2,22.41,44.82,card,completed
+S-20260113-00727,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00834,13/01/2026,Smör 500g,Dairy,2,49.9,99.8,cash,completed
+S-20260113-01378,13/01/2026,Tandkräm,Personal Care,2,29.9,59.8,card,completed
+S-20260113-01116,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01167,2026-01-13,Godis påse,Snacks,2,19.9,39.8,swish,completed
+S-20260113-00471,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-00972,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00654,2026-01-13,Kaffe 500g,Beverages,1,76.89,76.89,card,completed
+S-20260113-00400,2026-01-13,Läsk 1.5L,Beverages,1,23.65,23.65,swish,completed
+S-20260113-00512,2026-01-13,Gurka,Produce,1,18.9,18.9,card,completed
+S-20260113-00321,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00020,13/01/2026,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-00685,13/01/2026,Kaffe 500g,Beverages,4,69.9,279.6,card,completed
+S-20260113-00036,2026-01-13,Cigaretter,Tobacco,2,79.0,158.0,card,completed
+S-20260113-00903,2026-01-13,Äpplen,Produce,1,31.41,31.41,cash,completed
+S-20260113-01849,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00828,2026-01-13,Bananer,Produce,1,29.9,29.9,swish,completed
+S-20260113-01870,13/01/2026,Toalettpapper 8-pack,Household,1,59.9,59.9,swish,completed
+S-20260113-00408,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-00921,13/01/2026,Tonfisk burk,Pantry,3,24.9,74.7,card,completed
+S-20260113-00538,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-00759,2026-01-13,Cigaretter,Tobacco,1,75.05,75.05,swish,completed
+S-20260113-01983,2026-01-13,Smör 500g,Dairy,2,49.9,99.8,card,completed
+S-20260113-01063,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-01200,13/01/2026,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-00246,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,card,completed
+S-20260113-01417,2026-01-13,Mineralvatten 0.5L,Beverages,3,12.66,37.98,card,completed
+S-20260113-01128,13/01/2026,Diskmedel,Household,1,28.4,28.4,card,completed
+S-20260113-00785,2026-01-13,Glass,Frozen,1,43.89,43.89,card,completed
+S-20260113-01812,13/01/2026,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-00490,2026-01-13,Smör 500g,dairy,1,49.9,49.9,card,completed
+S-20260113-00155,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00962,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,swish,completed
+S-20260113-00854,13/01/2026,Tonfisk burk,Pantry,5,24.9,124.5,card,completed
+S-20260113-01312,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00626,2026-01-13,Toalettpapper 8-pack,Household,5,59.9,299.5,cash,completed
+S-20260113-00686,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01623,2026-01-13,Schampo,Personal Care,1,44.91,44.91,card,completed
+S-20260113-00570,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01987,2026-01-13,Tandkräm,Personal Care,2,29.9,59.8,card,completed
+S-20260113-00018,13/01/2026,Chips 275g,Snacks,2,29.9,59.8,card,completed
+S-20260113-00128,2026-01-13,Glass,Frozen,1,35.91,35.91,card,refunded
+S-20260113-01347,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01280,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,swish,completed
+S-20260113-02049,2026-01-13,Krossade tomater,Pantry,3,15.65,46.95,card,completed
+S-20260113-00928,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,card,completed
+S-20260113-00981,13/01/2026,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-02045,2026-01-13,Chips 275g,Snacks,3,29.9,89.7,card,done
+S-20260113-00191,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-01140,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00993,2026-01-13,Smör 500g,Dairy,2,49.9,99.8,card,completed
+S-20260113-02036,2026-01-13,Bananer,Produce,1,31.39,31.39,card,completed
+S-20260113-01722,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,swish,done
+S-20260113-00607,2026-01-13,Tvättmedel,Household,4,67.92,271.68,cash,completed
+S-20260113-00181,2026-01-13,Krossade tomater,pantry,1,14.9,14.9,card,completed
+S-20260113-00302,2026-01-13,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-00497,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-01906,13/01/2026,Bananer,produce,3,29.9,89.7,card,completed
+S-20260113-01777,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,swish,completed
+S-20260113-01727,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01829,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-00518,2026-01-13,Tvättmedel,Household,1,79.9,79.9,swish,completed
+S-20260113-01397,2026-01-13,Tonfisk burk,Pantry,1,22.41,22.41,card,completed
+S-20260113-01070,2026-01-13,Glass,Frozen,1,39.9,39.9,swish,completed
+S-20260113-00477,2026-01-13,Toalettpapper 8-pack,Household,3,59.9,179.7,card,completed
+S-20260113-00158,2026-01-13,Bröd Limpa,Bakery,5,29.9,149.5,swish,completed
+S-20260113-01244,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-01196,13/01/2026,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-00017,2026-01-13,Gurka,Produce,1,19.9,19.9,swish,completed
+S-20260113-01536,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01073,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-02051,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00547,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01540,13/01/2026,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-00659,2026-01-13,Krossade tomater,pantry,1,14.9,14.9,card,completed
+S-20260113-01688,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,card,completed
+S-20260113-01020,2026-01-13,Frysta ärtor,Frozen,3,24.9,74.7,cash,completed
+S-20260113-01728,13/01/2026,Läsk 1.5L,beverages,4,24.9,99.6,swish,completed
+S-20260113-01505,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00960,2026-01-13,Bananer,Produce,3,28.4,85.2,card,completed
+S-20260113-01960,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,swish,completed
+S-20260113-00284,2026-01-13,Toalettpapper 8-pack,Household,3,59.9,179.7,card,completed
+S-20260113-01633,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-00798,13/01/2026,Ägg 12-pack,Dairy,2,39.9,79.8,swish,completed
+S-20260113-01689,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00226,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,cash,completed
+S-20260113-00027,2026-01-13,Bröd Limpa,Bakery,3,29.9,89.7,card,completed
+S-20260113-01841,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,swish,completed
+S-20260113-00438,13/01/2026,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-02029,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01389,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-00230,13/01/2026,Gurka,Produce,2,16.91,33.82,swish,completed
+S-20260113-00038,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-00750,2026-01-13,Diskmedel,Household,2,29.9,59.8,card,completed
+S-20260113-01046,13/01/2026,Smör 500g,Dairy,1,44.91,44.91,card,completed
+S-20260113-01399,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-00470,2026-01-13,Chips 275g,Snacks,1,28.4,28.4,cash,completed
+S-20260113-01798,2026-01-13,Toalettpapper 8-pack,Household,1,62.9,62.9,card,completed
+S-20260113-02048,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-00688,2026-01-13,Tvättmedel,Household,3,79.9,239.7,cash,completed
+S-20260113-01919,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00640,2026-01-13,Bananer,Produce,2,29.9,59.8,swish,completed
+S-20260113-01780,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-01219,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-01159,13/01/2026,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-01416,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,cash,completed
+S-20260113-01528,2026-01-13,Bananer,Produce,2,29.9,59.8,cash,completed
+S-20260113-01720,2026-01-13,Tomater,Produce,1,37.9,37.9,card,completed
+S-20260113-01301,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-01897,2026-01-13,Gurka,Produce,2,19.9,39.8,card,completed
+S-20260113-00801,13/01/2026,Ris 1kg,Pantry,3,29.9,89.7,card,completed
+S-20260113-01604,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00161,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00957,13/01/2026,Tandkräm,Personal Care,3,25.41,76.23,swish,completed
+S-20260113-01187,2026-01-13,Bananer,Produce,2,25.41,50.82,card,completed
+S-20260113-00822,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,card,completed
+S-20260113-01748,2026-01-13,Glass,Frozen,2,35.91,71.82,card,completed
+S-20260113-00878,2026-01-13,Chips 275g,Snacks,2,25.41,50.82,card,completed
+S-20260113-00914,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00153,2026-01-13,Godis påse,Snacks,1,20.89,20.89,card,completed
+S-20260113-01912,2026-01-13,Bröd Limpa,Bakery,5,29.9,149.5,cash,completed
+S-20260113-01847,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,card,completed
+S-20260113-00510,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01136,2026-01-13,Glass,Frozen,1,39.9,39.9,card,completed
+S-20260113-01251,13/01/2026,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-01730,13/01/2026,Tomater,Produce,1,39.9,39.9,swish,completed
+S-20260113-00104,2026-01-13,Chokladkaka,Snacks,2,27.39,54.78,card,done
+S-20260113-01446,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-01444,2026-01-13,Tandkräm,personal care,1,29.9,29.9,cash,completed
+S-20260113-01808,2026-01-13,Tomater,Produce,1,35.91,35.91,card,completed
+S-20260113-00587,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01839,2026-01-13,Glass,Frozen,1,35.91,35.91,card,completed
+S-20260113-01697,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,swish,completed
+S-20260113-01144,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00054,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-00152,2026-01-13,Bröd Limpa,bakery,1,25.41,25.41,swish,completed
+S-20260113-00404,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-02023,2026-01-13,Chokladkaka,snacks,1,24.9,24.9,card,completed
+S-20260113-00208,13/01/2026,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-01973,2026-01-13,Mjölk 1L,Dairy,4,18.9,75.6,card,completed
+S-20260113-01683,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,Complete
+S-20260113-01123,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-01922,13/01/2026,Mineralvatten 0.5L,Beverages,1,15.65,15.65,card,completed
+S-20260113-00009,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-01015,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01869,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01061,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,swish,completed
+S-20260113-00453,2026-01-13,Äpplen,Produce,1,38.39,38.39,card,Complete
+S-20260113-01676,13/01/2026,Mineralvatten 0.5L,Beverages,2,14.9,29.8,card,completed
+S-20260113-00254,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-01328,13/01/2026,Godis påse,Snacks,3,19.9,59.7,card,completed
+S-20260113-00897,2026-01-13,Pasta 500g,pantry,3,19.9,59.7,card,completed
+S-20260113-01803,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-00881,13/01/2026,Smör 500g,Dairy,2,49.9,99.8,card,completed
+S-20260113-01596,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01998,2026-01-13,Toalettpapper 8-pack,Household,1,50.91,50.91,card,completed
+S-20260113-00624,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,swish,completed
+S-20260113-00346,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-01770,2026-01-13,Pasta 500g,Pantry,3,19.9,59.7,card,completed
+S-20260113-00263,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,cash,completed
+S-20260113-01635,2026-01-13,Diskmedel,Household,1,29.9,29.9,swish,completed
+S-20260113-01322,2026-01-13,Kaffe 500g,Beverages,5,69.9,349.5,card,completed
+S-20260113-01439,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,card,completed
+S-20260113-00151,2026-01-13,Pasta 500g,pantry,1,18.9,18.9,card,completed
+S-20260113-00473,2026-01-13,Ris 1kg,Pantry,1,26.91,26.91,card,completed
+S-20260113-00641,13/01/2026,Läsk 1.5L,Beverages,2,24.9,49.8,card,completed
+S-20260113-00872,2026-01-13,Tonfisk burk,Pantry,1,21.16,21.16,card,completed
+S-20260113-01961,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-00551,13/01/2026,Bröd Limpa,Bakery,2,28.4,56.8,card,completed
+S-20260113-01850,13/01/2026,Ägg 12-pack,Dairy,2,41.9,83.8,swish,completed
+S-20260113-00929,2026-01-13,Chips 275g,Snacks,4,29.9,119.6,card,completed
+S-20260113-00489,13/01/2026,Chokladkaka,Snacks,1,24.9,24.9,swish,completed
+S-20260113-01735,2026-01-13,Ägg 12-pack,Dairy,2,41.9,83.8,card,completed
+S-20260113-01885,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01172,13/01/2026,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-00147,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-01772,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,refunded
+S-20260113-02009,13/01/2026,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-00403,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-00955,2026-01-13,Frysta ärtor,Frozen,2,24.9,49.8,swish,Complete
+S-20260113-01955,2026-01-13,Bananer,Produce,1,32.89,32.89,card,completed
+S-20260113-00660,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-01373,2026-01-13,Schampo,Personal Care,3,49.9,149.7,card,completed
+S-20260113-00464,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01350,2026-01-13,Godis påse,Snacks,4,19.9,79.6,card,completed
+S-20260113-00187,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-01148,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-01225,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,cash,completed
+S-20260113-00609,13/01/2026,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-00144,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00752,13/01/2026,Tvättmedel,Household,2,79.9,159.8,cash,completed
+S-20260113-01535,2026-01-13,Te 20-pack,Beverages,3,34.9,104.7,card,completed
+S-20260113-00982,13/01/2026,Glass,Frozen,3,39.9,119.7,card,completed
+S-20260113-00198,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,swish,completed
+S-20260113-01634,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-00884,2026-01-13,Cigaretter,Tobacco,1,67.15,67.15,swish,completed
+S-20260113-00280,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00294,13/01/2026,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-01898,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00401,2026-01-13,Tandkräm,Personal Care,2,29.9,59.8,card,completed
+S-20260113-00123,2026-01-13,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-01208,2026-01-13,Toalettpapper 8-pack,Household,3,59.9,179.7,swish,completed
+S-20260113-00203,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01463,2026-01-13,Kaffe 500g,Beverages,1,62.91,62.91,card,completed
+S-20260113-00836,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,swish,completed
+S-20260113-00247,2026-01-13,Bröd Limpa,Bakery,4,29.9,119.6,card,completed
+S-20260113-01440,13/01/2026,Smör 500g,Dairy,5,49.9,249.5,card,completed
+S-20260113-01734,2026-01-13,Gurka,Produce,1,18.9,18.9,card,completed
+S-20260113-01823,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-01980,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01708,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01959,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,swish,completed
+S-20260113-01154,2026-01-13,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-01662,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,card,completed
+S-20260113-01427,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00385,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,,card,completed
+S-20260113-01828,2026-01-13,Glass,Frozen,2,39.9,79.8,card,completed
+S-20260113-01760,2026-01-13,Chips 275g,Snacks,3,29.9,89.7,card,completed
+S-20260113-00855,13/01/2026,Te 20-pack,Beverages,3,34.9,104.7,cash,completed
+S-20260113-01590,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,cash,completed
+S-20260113-00220,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,refunded
+S-20260113-00642,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00002,2026-01-13,Frysta ärtor,frozen,1,24.9,24.9,card,completed
+S-20260113-00113,13/01/2026,Tonfisk burk,Pantry,2,24.9,49.8,swish,completed
+S-20260113-00699,2026-01-13,Ägg 12-pack,Dairy,2,39.9,79.8,card,completed
+S-20260113-01995,13/01/2026,Te 20-pack,Beverages,2,34.9,69.8,swish,completed
+S-20260113-00952,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,refunded
+S-20260113-01649,2026-01-13,Tonfisk burk,Pantry,2,24.9,49.8,card,completed
+S-20260113-01637,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-01818,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-01411,2026-01-13,Smör 500g,Dairy,1,52.4,52.4,swish,completed
+S-20260113-01410,13/01/2026,Diskmedel,Household,1,25.41,25.41,swish,Complete
+S-20260113-01534,2026-01-13,Tvättmedel,Household,2,79.9,159.8,swish,completed
+S-20260113-01292,13/01/2026,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01891,13/01/2026,Frysta ärtor,Frozen,2,24.9,49.8,cash,completed
+S-20260113-00442,13/01/2026,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-01521,13/01/2026,Toalettpapper 8-pack,Household,1,59.9,59.9,swish,completed
+S-20260113-01137,2026-01-13,Bröd Limpa,Bakery,2,29.9,59.8,cash,completed
+S-20260113-01716,2026-01-13,Ris 1kg,Pantry,3,29.9,89.7,card,completed
+S-20260113-01257,13/01/2026,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01940,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-01632,2026-01-13,Tomater,Produce,1,39.9,39.9,cash,completed
+S-20260113-01696,13/01/2026,Krossade tomater,Pantry,1,16.39,16.39,cash,completed
+S-20260113-01398,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-00664,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01911,2026-01-13,Gurka,Produce,2,19.9,39.8,card,completed
+S-20260113-01258,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-01844,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01701,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00318,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,swish,completed
+S-20260113-00649,2026-01-13,Bröd Limpa,Bakery,1,29.9,29.9,card,completed
+S-20260113-01435,2026-01-13,Äpplen,Produce,3,34.9,104.7,card,completed
+S-20260113-01480,2026-01-13,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-00710,2026-01-13,Ägg 12-pack,Dairy,2,39.9,79.8,card,completed
+S-20260113-01383,2026-01-13,Chokladkaka,Snacks,2,24.9,49.8,card,completed
+S-20260113-01283,2026-01-13,Tandkräm,Personal Care,4,31.39,125.56,swish,completed
+S-20260113-01769,2026-01-13,Kaffe 500g,Beverages,1,69.9,69.9,card,completed
+S-20260113-00973,13/01/2026,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00628,13/01/2026,Mineralvatten 0.5L,Beverages,1,14.9,14.9,swish,completed
+S-20260113-00633,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-01307,2026-01-13,Gurka,Produce,5,19.9,99.5,cash,completed
+S-20260113-01401,2026-01-13,Pasta 500g,Pantry,2,19.9,39.8,cash,completed
+S-20260113-01409,13/01/2026,Läsk 1.5L,Beverages,3,22.41,67.23,card,completed
+S-20260113-01249,2026-01-13,Godis påse,Snacks,1,19.9,19.9,cash,completed
+S-20260113-02033,2026-01-13,Tomater,Produce,2,39.9,79.8,card,completed
+S-20260113-01255,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-01497,2026-01-13,Gurka,Produce,2,19.9,39.8,card,completed
+S-20260113-01372,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01530,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,swish,completed
+S-20260113-01664,2026-01-13,Godis påse,Snacks,2,19.9,39.8,card,completed
+S-20260113-01355,2026-01-13,Ris 1kg,Pantry,1,26.91,26.91,card,completed
+S-20260113-01822,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-02006,2026-01-13,Läsk 1.5L,Beverages,1,24.9,24.9,card,completed
+S-20260113-01979,13/01/2026,Tvättmedel,Household,3,79.9,239.7,card,completed
+S-20260113-01644,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,swish,completed
+S-20260113-01925,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00796,13/01/2026,Tandkräm,Personal Care,1,29.9,,card,completed
+S-20260113-00646,2026-01-13,Bananer,Produce,1,29.9,29.9,swish,completed
+S-20260113-01013,2026-01-13,Frysta ärtor,Frozen,5,24.9,124.5,card,completed
+S-20260113-01915,2026-01-13,Chokladkaka,Snacks,1,23.65,23.65,card,completed
+S-20260113-00557,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-00682,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00578,13/01/2026,Frysta ärtor,Frozen,2,24.9,49.8,card,refunded
+S-20260113-01820,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01110,2026-01-13,Krossade tomater,Pantry,1,12.66,12.66,cash,completed
+S-20260113-01267,2026-01-13,Pasta 500g,Pantry,1,18.9,18.9,card,completed
+S-20260113-01723,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01945,2026-01-13,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-01184,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-00525,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01060,13/01/2026,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-00541,13/01/2026,Pasta 500g,Pantry,5,19.9,99.5,card,completed
+S-20260113-01195,2026-01-13,Tandkräm,Personal Care,5,29.9,149.5,card,completed
+S-20260113-01679,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00749,2026-01-13,Toalettpapper 8-pack,Household,1,53.91,53.91,card,completed
+S-20260113-01928,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01431,2026-01-13,Bananer,Produce,2,25.41,50.82,cash,completed
+S-20260113-00485,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01758,13/01/2026,Smör 500g,Dairy,5,49.9,249.5,card,completed
+S-20260113-00096,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01021,2026-01-13,Gurka,Produce,2,19.9,39.8,card,completed
+S-20260113-00564,2026-01-13,Chokladkaka,Snacks,4,24.9,99.6,card,completed
+S-20260113-01265,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00743,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00864,13/01/2026,Smör 500g,Dairy,2,49.9,99.8,cash,Complete
+S-20260113-01599,2026-01-13,Chokladkaka,Snacks,1,24.9,24.9,card,completed
+S-20260113-01715,13/01/2026,Tvättmedel,Household,3,79.9,239.7,cash,completed
+S-20260113-01485,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00892,13/01/2026,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-01578,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,cash,completed
+S-20260113-01882,13/01/2026,Bröd Limpa,Bakery,1,29.9,29.9,swish,completed
+S-20260113-01039,13/01/2026,Ris 1kg,Pantry,3,25.41,76.23,card,completed
+S-20260113-00207,2026-01-13,Tomater,Produce,2,39.9,79.8,swish,completed
+S-20260113-00393,2026-01-13,Tvättmedel,Household,1,79.9,79.9,swish,completed
+S-20260113-00795,2026-01-13,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-00871,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-00398,13/01/2026,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-00767,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-01917,2026-01-13,Chips 275g,Snacks,2,29.9,59.8,cash,completed
+S-20260113-01242,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-01029,2026-01-13,Glass,Frozen,2,39.9,79.8,swish,completed
+S-20260113-01793,13/01/2026,Diskmedel,Household,1,25.41,25.41,card,completed
+S-20260113-00643,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-01970,2026-01-13,Läsk 1.5L,Beverages,3,24.9,74.7,card,completed
+S-20260113-00613,2026-01-13,Godis påse,Snacks,1,19.9,19.9,cash,refunded
+S-20260113-01763,2026-01-13,Tomater,Produce,2,41.9,83.8,card,completed
+S-20260113-00961,2026-01-13,Tvättmedel,Household,1,79.9,79.9,cash,completed
+S-20260113-01571,2026-01-13,Frysta ärtor,Frozen,2,22.41,44.82,card,completed
+S-20260113-00726,13/01/2026,Kaffe 500g,Beverages,3,66.41,199.23,card,completed
+S-20260113-01992,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-00684,2026-01-13,Mjölk 1L,Dairy,1,18.9,18.9,card,completed
+S-20260113-00099,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,swish,completed
+S-20260113-00805,2026-01-13,Godis påse,Snacks,1,19.9,19.9,swish,completed
+S-20260113-01752,13/01/2026,Toalettpapper 8-pack,Household,1,59.9,59.9,card,completed
+S-20260113-01598,13/01/2026,Ägg 12-pack,Dairy,4,39.9,159.6,card,completed
+S-20260113-00407,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,card,completed
+S-20260113-00503,2026-01-13,Gurka,Produce,2,19.9,39.8,card,completed
+S-20260113-01072,2026-01-13,Krossade tomater,Pantry,3,14.9,44.7,cash,completed
+S-20260113-01057,2026-01-13,Schampo,Personal Care,5,49.9,249.5,card,completed
+S-20260113-00930,2026-01-13,Krossade tomater,Pantry,3,15.65,46.95,card,Complete
+S-20260113-00780,2026-01-13,Gurka,produce,1,19.9,19.9,card,completed
+S-20260113-01864,2026-01-13,Gurka,Produce,1,19.9,19.9,swish,completed
+S-20260113-00201,2026-01-13,Godis påse,Snacks,3,19.9,59.7,card,completed
+S-20260113-00135,2026-01-13,Tvättmedel,Household,2,79.9,159.8,cash,completed
+S-20260113-01052,2026-01-13,Chokladkaka,Snacks,2,24.9,49.8,card,completed
+S-20260113-00041,13/01/2026,Kaffe 500g,Beverages,4,69.9,279.6,card,Complete
+S-20260113-01018,2026-01-13,Tomater,Produce,1,39.9,39.9,cash,completed
+S-20260113-00231,2026-01-13,Tandkräm,Personal Care,3,26.91,80.73,swish,completed
+S-20260113-01514,13/01/2026,Frysta ärtor,Frozen,2,24.9,49.8,cash,completed
+S-20260113-01797,2026-01-13,Kaffe 500g,Beverages,2,69.9,139.8,card,completed
+S-20260113-00379,2026-01-13,Tandkräm,Personal Care,2,29.9,59.8,card,completed
+S-20260113-00289,2026-01-13,Godis påse,Snacks,3,19.9,59.7,swish,completed
+S-20260113-00419,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,swish,refunded
+S-20260113-01699,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-00392,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-00593,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,swish,completed
+S-20260113-01523,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-01163,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-01087,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-01496,2026-01-13,Äpplen,Produce,2,38.39,76.78,cash,completed
+S-20260113-00648,2026-01-13,Tvättmedel,Household,1,79.9,79.9,card,completed
+S-20260113-01153,13/01/2026,Läsk 1.5L,Beverages,3,24.9,74.7,card,completed
+S-20260113-01368,2026-01-13,Ris 1kg,Pantry,2,25.41,50.82,card,completed
+S-20260113-00521,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01863,2026-01-13,Tandkräm,Personal Care,2,29.9,59.8,card,completed
+S-20260113-01881,2026-01-13,Läsk 1.5L,Beverages,4,26.14,104.56,card,completed
+S-20260113-00065,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,cash,completed
+S-20260113-01837,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-00015,2026-01-13,Ägg 12-pack,Dairy,5,39.9,199.5,card,completed
+S-20260113-01181,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,card,completed
+S-20260113-01065,2026-01-13,Bröd Limpa,Bakery,3,29.9,89.7,card,completed
+S-20260113-00493,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00380,13/01/2026,Ägg 12-pack,Dairy,1,39.9,39.9,cash,completed
+S-20260113-00188,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00764,2026-01-13,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00217,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-01946,2026-01-13,Läsk 1.5L,Beverages,5,23.65,118.25,card,completed
+S-20260113-00792,2026-01-13,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-01077,2026-01-13,Mjölk 1L,Dairy,3,18.9,56.7,card,completed
+S-20260113-00879,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00338,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01773,2026-01-13,Pasta 500g,Pantry,2,19.9,,card,completed
+S-20260113-00720,2026-01-13,Gurka,Produce,2,19.9,39.8,swish,completed
+S-20260113-01749,2026-01-13,Ägg 12-pack,Dairy,4,39.9,159.6,card,completed
+S-20260113-00296,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,swish,completed
+S-20260113-01726,13/01/2026,Ris 1kg,Pantry,1,29.9,29.9,card,completed
+S-20260113-01017,2026-01-13,Smör 500g,Dairy,4,54.89,219.56,card,completed
+S-20260113-01276,2026-01-13,Godis påse,Snacks,4,16.91,67.64,swish,completed
+S-20260113-01751,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-01486,13/01/2026,Ägg 12-pack,Dairy,3,39.9,119.7,card,completed
+S-20260113-00456,2026-01-13,Tonfisk burk,Pantry,1,24.9,24.9,cash,completed
+S-20260113-00156,13/01/2026,Pasta 500g,Pantry,1,16.91,16.91,card,Complete
+S-20260113-00816,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-01887,2026-01-13,Gurka,Produce,2,19.9,39.8,swish,completed
+S-20260113-00270,2026-01-13,Ris 1kg,Pantry,1,29.9,29.9,swish,completed
+S-20260113-00996,2026-01-13,Äpplen,Produce,1,34.9,34.9,swish,completed
+S-20260113-00202,2026-01-13,Toalettpapper 8-pack,Household,2,59.9,119.8,card,completed
+S-20260113-00162,2026-01-13,Schampo,Personal Care,3,49.9,149.7,swish,completed
+S-20260113-01580,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,swish,done
+S-20260113-00730,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-00402,13/01/2026,Gurka,Produce,3,19.9,59.7,swish,completed
+S-20260113-00703,2026-01-13,Tvättmedel,Household,1,75.91,75.91,card,completed
+S-20260113-01501,2026-01-13,Mjölk 1L,Dairy,2,19.84,39.68,card,completed
+S-20260113-01846,2026-01-13,Te 20-pack,beverages,2,34.9,69.8,swish,completed
+S-20260113-01796,2026-01-13,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-01130,13/01/2026,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-00566,2026-01-13,Diskmedel,Household,1,29.9,29.9,card,completed
+S-20260113-01414,13/01/2026,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-01022,13/01/2026,Schampo,Personal Care,2,49.9,99.8,card,cancelled
+S-20260113-01026,2026-01-13,Mineralvatten 0.5L,Beverages,2,14.9,29.8,card,completed
+S-20260113-01412,2026-01-13,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-01896,13/01/2026,Te 20-pack,Beverages,3,34.9,104.7,swish,completed
+S-20260113-01586,2026-01-13,Cigaretter,tobacco,1,79.0,79.0,cash,completed
+S-20260113-01956,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,done
+S-20260113-01105,13/01/2026,Pasta 500g,Pantry,1,19.9,19.9,card,completed
+S-20260113-00206,2026-01-13,Mjölk 1L,Dairy,1,17.01,17.01,card,completed
+S-20260113-00035,13/01/2026,Glass,frozen,5,39.9,199.5,card,completed
+S-20260113-01967,13/01/2026,Cigaretter,Tobacco,2,79.0,158.0,card,completed
+S-20260113-00776,2026-01-13,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-00509,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,cash,completed
+S-20260113-01452,2026-01-13,Chokladkaka,Snacks,2,24.9,49.8,swish,completed
+S-20260113-01479,2026-01-13,Gurka,Produce,1,19.9,19.9,swish,completed
+S-20260113-02050,13/01/2026,Schampo,Personal Care,1,49.9,49.9,card,Complete
+S-20260113-01391,2026-01-13,Krossade tomater,Pantry,1,13.41,13.41,swish,completed
+S-20260113-00092,2026-01-13,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-01364,2026-01-13,Te 20-pack,Beverages,2,34.9,69.8,card,completed
+S-20260113-00898,13/01/2026,Schampo,Personal Care,1,49.9,49.9,card,completed
+S-20260113-00565,2026-01-13,Mjölk 1L,Dairy,5,16.06,80.3,card,completed
+S-20260113-01370,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-00777,13/01/2026,Bröd Limpa,Bakery,3,29.9,89.7,cash,completed
+S-20260113-00242,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,card,completed
+S-20260113-00014,2026-01-13,Smör 500g,Dairy,3,44.91,134.73,card,completed
+S-20260113-00316,13/01/2026,Schampo,Personal Care,2,49.9,99.8,card,completed
+S-20260113-00601,13/01/2026,Tonfisk burk,Pantry,1,24.9,24.9,card,completed
+S-20260113-00388,2026-01-13,Ris 1kg,Pantry,2,28.4,56.8,card,completed
+S-20260113-01298,2026-01-13,Bananer,Produce,3,29.9,89.7,card,completed
+S-20260113-00167,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-00841,2026-01-13,Krossade tomater,Pantry,2,14.9,29.8,card,completed
+S-20260113-00021,13/01/2026,Tomater,Produce,1,39.9,39.9,card,completed
+S-20260113-00647,2026-01-13,Te 20-pack,Beverages,1,34.9,34.9,card,completed
+S-20260113-01843,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,card,completed
+S-20260113-01509,2026-01-13,Gurka,Produce,1,17.91,17.91,cash,completed
+S-20260113-01155,2026-01-13,Ägg 12-pack,Dairy,1,39.9,39.9,swish,completed
+S-20260113-01529,13/01/2026,Chokladkaka,snacks,5,24.9,124.5,card,completed
+S-20260113-00832,13/01/2026,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01268,2026-01-13,Äpplen,Produce,2,34.9,69.8,card,completed
+S-20260113-01591,2026-01-13,Mjölk 1L,Dairy,2,18.9,37.8,card,completed
+S-20260113-01900,13/01/2026,Äpplen,Produce,1,34.9,34.9,card,completed
+S-20260113-00563,2026-01-13,Ris 1kg,Pantry,2,29.9,59.8,card,completed
+S-20260113-02032,2026-01-13,Smör 500g,Dairy,1,49.9,49.9,card,completed
+S-20260113-00687,13/01/2026,Krossade tomater,Pantry,1,14.9,14.9,card,completed
+S-20260113-00958,2026-01-13,Frysta ärtor,Frozen,1,24.9,24.9,card,completed
+S-20260113-00190,2026-01-13,Schampo,Personal Care,5,49.9,249.5,swish,completed
+S-20260113-01807,2026-01-13,Läsk 1.5L,Beverages,2,21.16,42.32,card,completed
+S-20260113-00976,13/01/2026,Mjölk 1L,Dairy,1,18.9,18.9,card,done
+S-20260113-00700,2026-01-13,Krossade tomater,Pantry,1,14.15,14.15,card,completed
+S-20260113-01500,13/01/2026,Cigaretter,Tobacco,1,79.0,79.0,cash,done
+S-20260113-01706,2026-01-13,Diskmedel,Household,1,29.9,29.9,swish,completed
+S-20260113-00511,13/01/2026,Tvättmedel,Household,3,67.92,203.76,swish,completed
+S-20260113-01083,13/01/2026,Godis påse,Snacks,1,19.9,19.9,card,completed
+S-20260113-00475,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,card,completed
+S-20260113-01585,2026-01-13,Läsk 1.5L,Beverages,4,24.9,99.6,swish,cancelled
+S-20260113-00857,2026-01-13,Cigaretter,Tobacco,1,79.0,79.0,card,completed
+S-20260113-00748,2026-01-13,Smör 500g,Dairy,2,44.91,89.82,card,completed
+S-20260113-00253,2026-01-13,Mineralvatten 0.5L,Beverages,1,14.9,14.9,swish,completed
+S-20260113-00022,2026-01-13,Mineralvatten 0.5L,Beverages,3,16.39,49.17,card,completed
+S-20260113-01338,13/01/2026,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-00460,2026-01-13,Gurka,Produce,1,19.9,19.9,card,completed
+S-20260113-01185,2026-01-13,Toalettpapper 8-pack,Household,1,59.9,59.9,swish,completed
+S-20260113-00956,13/01/2026,Kaffe 500g,Beverages,3,66.41,199.23,cash,completed
+S-20260113-01216,2026-01-13,Chips 275g,Snacks,1,29.9,29.9,card,completed
+S-20260113-01516,2026-01-13,Bröd Limpa,Bakery,2,29.9,59.8,card,completed
+S-20260113-00770,13/01/2026,Tomater,Produce,2,39.9,79.8,card,completed
+S-20260113-01686,2026-01-13,Bananer,Produce,1,29.9,29.9,card,completed
+S-20260113-00131,2026-01-13,Toalettpapper 8-pack,Household,3,59.9,179.7,swish,completed
+S-20260113-01483,13/01/2026,Ris 1kg,Pantry,1,29.9,29.9,swish,completed
+S-20260113-00331,2026-01-13,Äpplen,Produce,1,34.9,34.9,swish,completed
+S-20260113-01239,2026-01-13,Kaffe 500g,Beverages,5,69.9,349.5,card,cancelled
+S-20260113-00467,2026-01-13,Pasta 500g,Pantry,4,19.9,79.6,card,completed
+S-20260113-01639,2026-01-13,Schampo,Personal Care,1,54.89,54.89,card,completed
+S-20260113-01096,2026-01-13,Mineralvatten 0.5L,Beverages,1,15.65,15.65,swish,completed
+S-20260113-01131,2026-01-13,Bananer,Produce,2,29.9,59.8,card,completed
+S-20260113-01295,13/01/2026,Diskmedel,Household,4,25.41,101.64,card,completed
+S-20260113-00861,13/01/2026,Tandkräm,Personal Care,1,29.9,29.9,cash,completed
