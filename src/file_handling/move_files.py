@@ -22,7 +22,8 @@ def move_file(filepath, status):
 
 
 def write_log(filename, rows_read, rows_loaded, errors):
-    log_dir = os.path.join(os.getcwd(), "logs")
+    BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+    log_dir = os.path.join(BASE_DIR, "logs")
     os.makedirs(log_dir, exist_ok=True)
 
     log_path = os.path.join(log_dir, "pipeline.log")

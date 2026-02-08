@@ -1,2 +1,0 @@
-2026-02-08 04:54:48 | file=sales_2026_01_12.csv | read=2659 | loaded=1941 | errors=none
-2026-02-08 04:56:26 | file=sales_2026_01_12(test).csv | read=2659 | loaded=0 | errors=Simulated critical error for testing
