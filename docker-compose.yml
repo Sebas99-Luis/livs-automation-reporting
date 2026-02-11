@@ -15,5 +15,17 @@ services:
       - postgres_data:/var/lib/postgresql/data
     restart: unless-stopped
 
+  pipeline:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: livs_pipeline
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+    depends_on:
+      - db
+    restart: always
+
 volumes:
   postgres_data:

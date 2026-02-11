@@ -1,0 +1,1 @@
+0 6 * * * python /app/run_pipeline.py >> /var/log/pipeline/pipeline.log 2>&1

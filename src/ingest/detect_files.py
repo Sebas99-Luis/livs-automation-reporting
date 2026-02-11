@@ -1,6 +1,14 @@
 import os
 
-INCOMING_DIR = r"C:\Users\info\Documents\NORRDATA\Proyectos\livs-automation-reporting\data\incoming"
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# Subir dos niveles: src/ingest → src → app
+PROJECT_DIR = os.path.dirname(os.path.dirname(CURRENT_DIR))
+
+DATA_DIR = os.path.join(PROJECT_DIR, "data")
+INCOMING_DIR = os.path.join(DATA_DIR, "incoming")
+
+
 
 def get_incoming_files():
     files = []
